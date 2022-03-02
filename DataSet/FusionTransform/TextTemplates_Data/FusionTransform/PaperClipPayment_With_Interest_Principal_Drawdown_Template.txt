@@ -1,0 +1,87 @@
+
+On <EffectiveDate> the following transaction(s) totaling:
+ USD <TotalAmount> 
+
+ will be made.
+
+ Details:
+In Deal: <DealName>
+In facility <FacilityName> :
+
+LIBOR Interest Payment 
+<BorrowerShortName> will pay interest on the <PricingOption> loan effective
+<LoanEffectiveDate>, scheduled to reprice on <LoanRepricingDate>,
+totaling <Currency> <InterestDue>.  
+
+Accrual Line Item(s) are as follows:
+
+<PricingOption> Interest Payment
+
+Rate Basis:  <RateBasis>
+
+      Start         End Days CCY Balance      Rate Amount
+___________ ___________ ____ ___ _______ _________ ______
+
+<CycleStartDate> <CycleEndDate>   <Days> <Currency>   <InterestDue> <AllInRate>   <AccrualAmount>
+
+
+
+
+
+
+LIBOR Principal Payment
+<BorrowerShortName> will pay principal on the <PricingOption> loan effective
+<LoanEffectiveDate>, scheduled to reprice on <LoanRepricingDate>,
+totaling <Currency> <PrincipalAmount>.  
+
+
+
+
+ Description: <PricingOption> Borrowing 
+
+Effective: <BorrowerShortName> has elected to borrow under the
+<PricingOption>  <Currency> <LoanAmount>.
+
+Please see details below.
+
+      The base rate is:           <BaseRate>
+      The all-in rate is:         <AllInRate>
+
+Maturity Date: <MaturityDate>
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+We will credit your account for an amount of <Currency> <CashflowAmount> on the effective date.
+
+
+For:<BorrowerShortName>
+<RIMethod>
+
+
+Account No:  
+<RIDescription>
+Name:  
+<RIAccountName>
+Routing Number:  
+ 
+
+
+Reference: <DealName>, 
+
+
+
+
+
+|<comment>|

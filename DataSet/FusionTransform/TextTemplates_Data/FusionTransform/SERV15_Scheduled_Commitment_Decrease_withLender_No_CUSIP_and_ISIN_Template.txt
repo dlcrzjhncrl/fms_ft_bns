@@ -1,0 +1,26 @@
+                 Description: Scheduled Commitment Decrease
+
+
+BORROWER: <BorrowerName>
+DEAL NAME: <DealName>
+
+COMMITMENT DECREASE
+Effective <EffectiveDate>, the borrower's commitment will be reduced
+from <Currency> <FacilityGlobalCurrentAmount> to <Currency> <ScheduleItemRemainingAmount>.
+Your share of the commitment will be reduced from <Currency> <Old_LenderShares>
+to <Currency> <New_LenderShares>.
+
+
+Your percentage of the commitment before the decrease was <OldLender_Percentage>% and your 
+percentage of the commitment after the decrease will be <NewLender_Percentage>%.
+
+Your current aggregate outstandings are <Currency> <Aggregate_Outstandings>.
+
+
+
+
+
+
+ If you have any questions, please call the undersigned.
+
+|<comment>|

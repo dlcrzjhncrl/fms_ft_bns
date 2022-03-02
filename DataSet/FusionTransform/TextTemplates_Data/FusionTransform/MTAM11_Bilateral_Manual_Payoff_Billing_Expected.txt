@@ -1,0 +1,51 @@
+BilateralBorrower30106                  Fees Due                     306.67  
+11 Madison Avenue                       
+New York  NY 10010                      Total Due:                   306.67   USD
+United States                           
+                                        	   Due Date: 15-Oct-2014
+Contact:  Elon Musk
+Phone:  +13103636000
+Fax #: 212-465-3968
+
+Re:  BILATERALDEAL29138
+
+Prepared: 25-Sep-2014
+
+Please be advised that the following payments will be due on 15-Oct-2014
+
+
+
+
+
+________________________________________________________________________________
+
+
+Facility Name:             FACILITY3TERM16072021015014UIZ
+Fee Type:                  Available/Unutilized
+Rate Basis:                Actual/360
+
+        Start           End Days            Balance       Rate             Amount
+_____________ _____________ ____ __________________ __________ __________________
+
+  15-Jul-2014   14-Oct-2014   92         800,000.00  0.150000%             306.67
+
+
+
+
+
+Total Fees:                                                            306.67 
+Total Due:                                                             306.67 
+
+ Current Per Diem:                                                       3.33
+
+
+
+
+
+
+________________________________________________________________________________
+
+
+We will charge your DDA# DDA1
+
+For billing inquiries contact:  Steven Bailey

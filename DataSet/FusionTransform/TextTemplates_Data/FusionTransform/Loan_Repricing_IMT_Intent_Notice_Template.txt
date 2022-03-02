@@ -1,0 +1,101 @@
+                ***** Rate Setting *****
+	
+	
+Description: <Currency> Loan Repricing for the Deal <Deal_Name>.
+
+Effective: <Loan_EffectiveDate> 
+
+Borrower <Borrower_ShortName> in Facility <Facility_Name> has the following loans repricing: 
+
+                                                           Current      
+                                                           Reprice      
+Description                                 Global Amount  Date         
+----------------------------------------------------------------------------------------
+ <PricingOption> Loan                                <RequestedAmount>    <Loan_EffectiveDate>  
+
+
+
+
+Borrower <Borrower_ShortName> in Facility <Facility_Name> will make the following interest payments: 
+
+Description                                 Global Amount
+--------------------------------------------------------------------------------
+ <PricingOption>                                        <InterestAmount> 
+
+
+
+
+
+Borrower <Borrower_ShortName> in Facility <Facility_Name> will have the following new loans: 
+
+                                                         Next         
+Pricing                                                  Reprice      
+Option                                    Global Amount  Date         
+----------------------------------------------------------------------------------------
+ <PricingOption>                                    <RequestedAmount_1>   <RepricingDate>  
+          Continuation Date: <LoanRepricing_ContinuationDate>
+
+
+ <PricingOption>                                    <RequestedAmount_2>   <RepricingDate>  
+          Continuation Date: <LoanRepricing_ContinuationDate>
+
+
+
+
+ 
+ 
+
+
+Borrower <Borrower_ShortName> in Facility <Facility_Name> rates have been set as follows:
+
+
+                                                                    Next         
+Pricing                                     Global                  Reprice      
+Option                                      Amount   All In Rate    Date         
+----------------------------------------------------------------------------------------
+ <PricingOption>                               <RequestedAmount_1>      <AllInRate_1>     <RepricingDate>  
+	 <PricingOption>: <BaseRate_1>
+	 Spread: <SpreadRate_1>
+	      Projected Interest: <CycleDue_1>     
+	 Projected  Interest Due Date: <ProjectedIntDueDate_1>
+
+                                                                    Next         
+Pricing                                     Global                  Reprice      
+Option                                      Amount   All In Rate    Date         
+----------------------------------------------------------------------------------------
+ <PricingOption>                               <RequestedAmount_2>      <AllInRate_2>     <RepricingDate>  
+	 <PricingOption>: <BaseRate_2>
+	 Spread: <SpreadRate_2>
+	      Projected Interest: <CycleDue_2>     
+	 Projected  Interest Due Date: <ProjectedIntDueDate_2>
+
+
+
+
+
+
+
+
+Deal ISIN: <DEAL_ISIN>
+Deal CUSIP: <DEAL_CUSIP>
+Facility: <Facility_Name> 
+
+Facility ISIN: <FACILITY_ISIN>
+Facility CUSIP: <FACILITY_CUSIP>
+
+
+
+ Please remit your funds <Currency> <InterestAmount> to arrive on the effective date.
+
+For: <Borrower_ShortName>
+Correspondent Bank: <BILL_CORRESPONDINGBANK>  
+Account: <BILL_ACCOUNT> <STATE>
+
+Reference: <Deal_Name>, 
+
+
+
+
+
+
+|<comment>|

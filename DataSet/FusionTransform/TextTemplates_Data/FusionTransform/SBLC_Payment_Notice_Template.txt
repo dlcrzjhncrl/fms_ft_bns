@@ -1,0 +1,27 @@
+                  Description: <PricingOption> <PaymentDescription> Payment                  
+
+
+Effective <EffectiveDate> <BorrowerShortName> will make payment against the <PricingOption_2> <PaymentDescriptionExt_1> <PaymentDescriptionExt_2> totaling <Currency> <Amount>.
+
+
+Deal ISIN: <Deal_ISIN>
+Deal CUSIP: <Deal_CUSIP>
+Facility ISIN: <Facility_ISIN>
+Facility CUSIP: <Facility_CUSIP>
+
+
+
+
+
+
+ Please remit your funds <Currency> <Amount> to arrive on the effective date.
+
+
+For: <BorrowerShortName>
+Correspondent Bank: <CorrespondentBank>  
+Account: <Account> <State>
+
+Reference: <Deal>, 
+
+
+|<comment>|

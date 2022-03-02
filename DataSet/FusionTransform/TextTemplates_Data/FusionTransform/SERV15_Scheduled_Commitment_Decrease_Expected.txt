@@ -1,0 +1,19 @@
+                 Description: Scheduled Commitment Decrease
+
+
+BORROWER: BORROWER AGENTED SECURITY15104
+DEAL NAME: AWS SCENARIO23127
+
+COMMITMENT DECREASE
+Effective 26-Nov-2021, the commitment for BORROWER AGENTED SECURITY15104
+will be reduced from USD 600,000.00 to USD 562,500.00.
+
+
+
+
+
+
+
+ If you have any questions, please call the undersigned.
+
+|<comment>|

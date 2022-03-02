@@ -1,0 +1,24 @@
+Description: <PricingOption> <PricingOption_2>
+
+
+Effective: <EffectiveDate> <BorrowerShortName> has elected to borrow under the
+<PricingOption> a total of <Currency> <Amount>. 
+
+Please see details below.
+
+Deal ISIN: <Deal_ISIN>
+Deal CUSIP: <Deal_CUSIP>
+Facility ISIN: <Facility_ISIN>
+Facility CUSIP: <Facility_CUSIP>
+
+
+
+We will remit your funds <Currency> <Amount> on the effective date.
+
+
+For: <BorrowerShortName>
+
+Reference: <Deal>, <PricingOption> <PricingOption_3>
+
+
+|<comment>|

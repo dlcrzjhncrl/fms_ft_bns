@@ -1,0 +1,87 @@
+                ***** Rate Setting *****
+	
+	
+Description: USD Loan Repricing for the Deal BDSBLC15107.
+
+Effective: 23-Feb-2015 
+
+Borrower Borrower_ABC_35105 in Facility REVOLVERFACILITY25100 has the following loans repricing: 
+
+                                                           Current      
+                                                           Reprice      
+Description                                 Global Amount  Date         
+----------------------------------------------------------------------------------------
+ Libor Option Loan                               40,000.00    23-Feb-2015  
+ Libor Option Loan                               50,000.00    24-Feb-2015  
+
+
+
+
+Borrower Borrower_ABC_35105 in Facility REVOLVERFACILITY25100 will make the following interest payments: 
+
+Description                                 Global Amount
+--------------------------------------------------------------------------------
+ Libor Option                                        16.33 
+
+
+
+
+
+Borrower Borrower_ABC_35105 in Facility REVOLVERFACILITY25100 will have the following new loans: 
+
+                                                         Next         
+Pricing                                                  Reprice      
+Option                                    Global Amount  Date         
+----------------------------------------------------------------------------------------
+ Libor Option                                   90,000.00   02-Mar-2015  
+          Continuation Date: 25-Feb-2015
+
+
+
+
+ 
+
+
+Borrower Borrower_ABC_35105 in Facility REVOLVERFACILITY25100 rates have been set as follows:
+
+
+                                                                    Next         
+Pricing                                     Global                  Reprice      
+Option                                      Amount   All In Rate    Date         
+----------------------------------------------------------------------------------------
+ Libor Option                              90,000.00      2.100000%     02-Mar-2015  
+	 Libor Option: 0.100000%
+	 Spread: 2.000000%
+	      Projected Interest: 36.75     
+	 Projected  Interest Due Date: 02-Mar-2015
+
+
+
+
+
+
+
+
+Deal ISIN: 000402625-01
+Deal CUSIP: 037833100
+Facility: REVOLVERFACILITY25100 
+
+Facility ISIN: 000402625-01
+Facility CUSIP: 037833100
+
+
+
+ Please remit your funds USD 16.33 to arrive on the effective date.
+
+For: Borrower_ABC_35105
+Correspondent Bank: CITIBANK N.A. (Swift ID: CITIUS33ARR)  
+Account: IQFS New York
+
+Reference: BDSBLC15107, 
+
+
+
+
+
+
+|<comment>|

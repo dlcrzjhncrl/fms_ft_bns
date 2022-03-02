@@ -1,0 +1,93 @@
+                ***** Rate Setting *****
+	
+	
+Description: USD Loan Repricing for the Deal DEAL_NAME SC07144.
+
+Effective: 18-Feb-2015 
+
+Borrower AGENCYSBLCBORROWER44117 in Facility CRED01TERM39124 has the following loans repricing: 
+
+                                                           Current      
+                                                           Reprice      
+Description                                 Global Amount  Date         
+----------------------------------------------------------------------------------------
+ Libor Option Loan                               10,000.00    18-Feb-2015  
+
+
+
+
+Borrower AGENCYSBLCBORROWER44117 in Facility CRED01TERM39124 will make the following interest payments: 
+
+Description                                 Global Amount
+--------------------------------------------------------------------------------
+ Libor Option                                         2.83 
+
+
+
+
+
+Borrower AGENCYSBLCBORROWER44117 in Facility CRED01TERM39124 will have the following new loans: 
+
+                                                                      
+Pricing                                                               
+Option                                    Global Amount               
+----------------------------------------------------------------------------------------
+ Fixed Rate Option                              10,000.00               
+
+
+
+
+ 
+
+
+Borrower AGENCYSBLCBORROWER44117 in Facility CRED01TERM39124 rates have been set as follows:
+
+
+                                                                    Next         
+Pricing                                     Global                  Reprice      
+Option                                      Amount   All In Rate    Date         
+----------------------------------------------------------------------------------------
+ Fixed Rate Option                         10,000.00      3.000000%                 
+	 Fixed Rate Option: 1.000000%
+	 Spread: 2.000000%
+	      Projected Interest: 5.83     
+	 Projected  Interest Due Date: 25-Feb-2015
+
+
+
+
+
+
+
+
+Deal ISIN: 000402625-01
+Deal CUSIP: 037833100
+Facility: CRED01TERM39124 
+
+Facility ISIN: 000402625-01
+Facility CUSIP: 037833100
+
+
+
+We will charge your account for an amount of USD 2.83 on the effective date.
+
+For: AGENCYSBLCBORROWER44117
+Demand Deposit Account
+
+
+Account No:  
+DDA1
+Name:  
+DDA1
+Routing Number:  
+ 
+
+
+Reference: DEAL_NAME SC07144, 
+
+
+
+
+
+
+|<comment>|

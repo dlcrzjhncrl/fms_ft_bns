@@ -1,0 +1,100 @@
+Description: <Deal_Currency> Loan Repricing for the Deal <Deal_Name>.
+
+Effective: <LoanRepricing_EffectiveDate> 
+
+Borrower <Borrower_ShortName> in Facility <Facility_Name> has the following loans repricing: 
+
+                                                           Current      
+                                                           Reprice      
+Description                                 Global Amount  Date         
+----------------------------------------------------------------------------------------
+ <Loan_PricingOption> Loan                              <Loan_RequestedAmount>    <Loan_RepricingDate>  
+
+
+
+
+Borrower <Borrower_ShortName> in Facility <Facility_Name> will make the following interest payments: 
+
+Description                                 Global Amount
+--------------------------------------------------------------------------------
+ <Loan_PricingOption>                                       <Loan_CycleAmount> 
+ <Loan_PricingOption>                                       <Loan_CycleAmount2> 
+
+
+
+Accrual Line Item(s) are as follows:
+
+Rate Basis:  <Rollover_ARRCompoundingRate>
+
+      Start         End Days CCY    Balance      Rate Amount
+___________ ___________ ____ ___ __________ _________ ______
+
+<Loan_CycleStartDate> <Loan_CycleEndDate>    <CCY_Date> <Loan_Currency> <Rollover_RequestedAmount> <Loan_AllInRate> <Loan_CycleAmount>
+
+Accrual Line Item(s) are as follows:
+
+Rate Basis:  <Rollover_ARRCompoundingRate>
+
+      Start         End Days CCY    Balance      Rate Amount
+___________ ___________ ____ ___ __________ _________ ______
+
+<Loan_CycleStartDate2> <Loan_CycleEndDate2>    <CCY_Date2> <Loan_Currency> <Rollover_RequestedAmount> <Loan_AllInRate> <Loan_CycleAmount2>
+
+
+
+
+Borrower <Borrower_ShortName> in Facility <Facility_Name> will have the following new loans: 
+
+                                                         Next         
+Pricing                                                  Reprice      
+Option                                    Global Amount  Date         
+----------------------------------------------------------------------------------------
+ <Revise_Pricing_Option>              <Rollover_RequestedAmount>   <Rollover_RepricingDate>  
+ Overridable                                                          
+          Continuation Date: <LoanRepricing_ContinuationDate>
+
+
+ 
+
+
+
+Borrower <Borrower_ShortName> in Facility <Facility_Name> floating rate detail is as follows: 
+
+Pricing Option                            Global Amount    All In Rate
+----------------------------------------------------------------------------------------
+ <Revise_Pricing_Option>              <Rollover_RequestedAmount>       <Rollover_AllInRate>
+ Overridable                                                          
+
+	 <New_Pricing_Option>: <Rollover_BaseRate>
+	 Spread: <Rollover_SpreadRate>
+	 Rate Type: <Rollover_CalculationMethod>
+	 Look Back days : <Rollover_ARRLookbackDays>
+	 Lock Out days : <Rollover_ARRLockoutDays>
+	 <New_Pricing_Option> on Effective Start Date : <Rollover_BaseRate>
+	 Spread Adjustment : <Rollover_UISpreadAdjustment>
+Observation period shift applies : <Rollover_ARRObservationPeriod>
+	Base Rate Floor :<Rollover_BaseRateFloor>
+Legacy Base Rate Floor :<Rollover_LegacyBaseRateFloor>
+CCR Rounding :<Rollover_CCRRounding>
+Payment Lag :<Rollover_PaymentLag>
+
+
+
+
+
+
+
+ Please remit your funds <Loan_Currency> <Total_CycleAmount> to arrive on the effective date.
+
+For: <Borrower_ShortName>
+Correspondent Bank: CITIBANK N.A. (Swift ID: CITIUS33ARR)  
+Account: IQFS New York
+
+Reference: <Deal_Name>, 
+
+
+
+
+
+
+|<comment>|

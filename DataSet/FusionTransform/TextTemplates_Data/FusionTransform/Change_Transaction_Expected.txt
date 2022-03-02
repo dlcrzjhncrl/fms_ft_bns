@@ -1,0 +1,10 @@
+Description: Outstanding Change Transaction for Loan BORROWER_A00067
+	
+An outstanding change transaction will be released effective 23-Jan-2015,  on the Libor Option Loan effective 09-Dec-2014 , Repricing Date: 16-Dec-2014. The following attributes will change:
+
+Field                                      Previous Value    New Value                                             
+--------------------------------------------------------------------------------
+Loan Rate Basis                            Actual/360        Actual/365                                            
+ 
+
+|<comment>|

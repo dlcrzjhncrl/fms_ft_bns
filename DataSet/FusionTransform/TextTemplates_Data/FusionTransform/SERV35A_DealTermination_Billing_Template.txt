@@ -1,0 +1,57 @@
+<BORROWER>            Fees Due                     <BILL_TOTALDUE>  
+<ADDRESS1>                       
+<ADDRESS2>                      Total Due:                   <BILL_TOTALDUE>   <BILL_CURRENCY>
+<ADDRESS3>                           
+                                        	   Due Date: <BILL_DUEDATE>
+															
+Contact:  <BILL_CUSTOMER>
+Phone:  <PRIMARY_CONTACT>
+
+Re:  <BILL_DEAL>
+
+Prepared: <BILL_CURRENTDATE>
+
+Please be advised that the following payments will be due on <BILL_DUEDATE>
+
+
+
+
+
+________________________________________________________________________________
+
+
+Facility Name:             <BILL_FACILITY>
+Fee Type:                  <BILL_FEETYPE>
+Rate Basis:                <BILL_RATEBASIS>
+
+        Start           End Days            Balance       Rate             Amount
+_____________ _____________ ____ __________________ __________ __________________
+
+  <BILL_DATESTART>_1   <BILL_DATEEND>_1    <BILL_DAYS>_1       <BILL_BALANCE>_1  <BILL_RATE>_1               <BILL_AMOUNT>_1
+  <BILL_DATESTART>_2   <BILL_DATEEND>_2    <BILL_DAYS>_2       <BILL_BALANCE>_2  <BILL_RATE>_2               <BILL_AMOUNT>_2
+  <BILL_DATESTART>_3   <BILL_DATEEND>_3    <BILL_DAYS>_3       <BILL_BALANCE>_3  <BILL_RATE>_3               <BILL_AMOUNT>_3
+  <BILL_DATESTART>_4   <BILL_DATEEND>_4    <BILL_DAYS>_4       <BILL_BALANCE>_4  <BILL_RATE>_4               <BILL_AMOUNT>_4
+  <BILL_DATESTART>_5   <BILL_DATEEND>_5    <BILL_DAYS>_5       <BILL_BALANCE>_5  <BILL_RATE>_5               <BILL_AMOUNT>_5
+
+
+
+
+
+<TOTAL_FEES>                                                            <TOTAL_FEES_AMOUNT> 
+<PAID_AMOUNT>                                                            <PAID_AMOUNT_AMOUNT> 
+<BALANCE_FORWARD>                                                       <BALANCE_FORWARD_AMOUNT> 
+<FOOTER_TOTAL_DUE>                                                             <TOTAL_DUE_AMOUNT> 
+
+ <CURRENT_PER_DIEM>                                                       <CURRENT_PER_DIEM_AMOUNT>
+
+
+
+
+
+
+________________________________________________________________________________
+
+
+We will charge your <BILL_RI># <BILL_ACCTNAME>
+
+For billing inquiries contact:  <BILL_CONTACT>

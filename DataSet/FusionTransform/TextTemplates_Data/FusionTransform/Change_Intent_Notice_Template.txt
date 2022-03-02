@@ -1,0 +1,29 @@
+A <Type> issued under the captioned agreement has been
+<Action>. The details of the <AdjustmentTypeLower> are as follows: 
+
+
+Borrower: <Borrower>
+
+Deal ISIN: <Deal_ISIN>
+Deal CUSIP: <Deal_CUSIP>
+Facility ISIN: <Facility_ISIN>
+Facility CUSIP: <Facility_CUSIP>
+
+Issuing Banks:
+
+Name:<Bank>
+Address:<Address_1>
+<Address_2> <PostalCode>
+<Country> 
+Agent Bank <Type> NO: <Alias>
+Effective Date: <EffectiveDate>
+<AdjustmentTypeUpper> amount and currency: <Currency> <Amount>
+New <Type> balance amount and currency: <Currency> <NewAmount>
+
+Other:
+
+
+
+If you have any questions, please call the undersigned.
+
+|<comment>|

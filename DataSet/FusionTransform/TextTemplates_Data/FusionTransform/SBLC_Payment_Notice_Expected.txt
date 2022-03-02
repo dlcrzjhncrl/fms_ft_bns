@@ -1,0 +1,27 @@
+                  Description: Standby Letter of Credit Issuance Fee Payment                  
+
+
+Effective 12-Feb-2015 Borrower_ABC_35105 will make payment against the SBLC Issuance (Lender Share) Fee totaling USD 19.44.
+
+
+Deal ISIN: 000402625-01
+Deal CUSIP: 037833100
+Facility ISIN: 000402625-01
+Facility CUSIP: 037833100
+
+
+
+
+
+
+ Please remit your funds USD 19.44 to arrive on the effective date.
+
+
+For: Borrower_ABC_35105
+Correspondent Bank: CITIBANK N.A. (Swift ID: CITIUS33ARR)  
+Account: IQFS New York
+
+Reference: BDSBLC15107, 
+
+
+|<comment>|

@@ -1,0 +1,52 @@
+BilateralBorrower30106                  Interest Due               1,224.96  
+11 Madison Avenue                       
+New York  NY 10010                      Total Due:                 1,224.96   USD
+United States                           
+                                        	   Due Date: 29-Aug-2014
+Contact:  Elon Musk
+Phone:  +13103636000
+
+Re:  BILATERALDEAL29138
+
+Prepared: 22-Aug-2014
+
+Please be advised that the following payments will be due on 29-Aug-2014
+
+
+
+
+
+________________________________________________________________________________
+
+Loan Details for -  BILATERALB00001
+Facility Name:             REVOLVERFACILITY40125
+Pricing Option:            Libor Option(BILATERALB00001)
+                           Repricing Frequency:7 Day(s)
+                           Repricing Date:13-Jun-2014
+Rate Basis:                Actual/360
+
+        Start           End Days            Balance       Rate             Amount
+_____________ _____________ ____ __________________ __________ __________________
+
+  22-Aug-2014   28-Aug-2014    7         250,000.00  2.100000%             102.08
+
+
+
+
+
+Interest Due                                                           102.08 
+Balance Forward:                                                     1,122.88 
+Total Due:                                                           1,224.96 
+
+
+
+
+
+
+
+________________________________________________________________________________
+
+
+We will charge your DDA# DDA1
+
+For billing inquiries contact:  Steven Bailey

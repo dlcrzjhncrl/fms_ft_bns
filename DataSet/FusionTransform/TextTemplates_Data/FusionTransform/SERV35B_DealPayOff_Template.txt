@@ -1,0 +1,304 @@
+
+On <NoticeEffectiveDate> the following transaction(s) totaling:
+ <Currency> <TotalLoanAmount> 
+
+ will be made.
+
+ Details:
+In Deal: <DealName>
+In facility <FacilityName>_1 :
+
+<PricingOptionTitle> Interest Payment 
+ <BorrowerShortName> will pay interest on the <PricingOption> loan effective
+<LoanEffectiveDate>_1, scheduled to reprice on <LoanRepricingDate>_1,
+totaling <Currency> <AmountAccrued>_1_1.  
+
+Accrual Line Item(s) are as follows:
+
+<PricingOption> Interest Payment
+
+Rate Basis:  <RateBasis>
+
+      Start         End Days CCY    Balance      Rate Amount
+___________ ___________ ____ ___ __________ _________ ______
+
+<StartDate>_1_1 <EndDate>_1_1    <Days>_1_1 <Currency> <LoanGlobalCurrentAmount>_1 <LoanAllInRate>_1 <AmountAccrued>_1_1
+
+
+
+
+
+
+
+
+<PricingOptionTitle> Interest Payment 
+ <BorrowerShortName> will pay interest on the <PricingOption> loan effective
+<LoanEffectiveDate>_1, scheduled to reprice on <LoanRepricingDate>_1,
+totaling <Currency> <AmountAccrued>_1_2.  
+
+Accrual Line Item(s) are as follows:
+
+<PricingOption> Interest Payment
+
+Rate Basis:  <RateBasis>
+
+      Start         End Days CCY    Balance      Rate Amount
+___________ ___________ ____ ___ __________ _________ ______
+
+<StartDate>_1_2 <EndDate>_1_2    <Days>_1_2 <Currency> <LoanGlobalCurrentAmount>_1 <LoanAllInRate>_1 <AmountAccrued>_1_2
+
+
+
+
+
+
+
+
+<PricingOptionTitle> Interest Payment 
+ <BorrowerShortName> will pay interest on the <PricingOption> loan effective
+<LoanEffectiveDate>_1, scheduled to reprice on <LoanRepricingDate>_1,
+totaling <Currency> <AmountAccrued>_1_3.  
+
+Accrual Line Item(s) are as follows:
+
+<PricingOption> Interest Payment
+
+Rate Basis:  <RateBasis>
+
+      Start         End Days CCY    Balance      Rate Amount
+___________ ___________ ____ ___ __________ _________ ______
+
+<StartDate>_1_3 <EndDate>_1_3    <Days>_1_3 <Currency> <LoanGlobalCurrentAmount>_1 <LoanAllInRate>_1 <AmountAccrued>_1_3
+
+
+
+
+
+
+
+
+<PricingOptionTitle> Interest Payment 
+ <BorrowerShortName> will pay interest on the Libor Option loan effective
+<LoanEffectiveDate>_1, scheduled to reprice on <LoanRepricingDate>_1,
+totaling <Currency> <AmountAccrued>_1_4.  
+
+Accrual Line Item(s) are as follows:
+
+Libor Option Interest Payment
+
+Rate Basis:  Actual/360
+
+      Start         End Days CCY    Balance      Rate Amount
+___________ ___________ ____ ___ __________ _________ ______
+
+<StartDate>_1_4 <EndDate>_1_4    <Days>_1_4 <Currency> <LoanGlobalCurrentAmount>_1 <LoanAllInRate>_1  <AmountAccrued>_1_4
+
+
+
+
+
+
+
+
+<PricingOptionTitle> Interest Payment 
+ <BorrowerShortName> will pay interest on the <PricingOption> loan effective
+<LoanEffectiveDate>_2, scheduled to reprice on <LoanRepricingDate>_2,
+totaling <Currency> <AmountAccrued>_2_1.  
+
+Accrual Line Item(s) are as follows:
+
+<PricingOption> Interest Payment
+
+Rate Basis:  <RateBasis>
+
+      Start         End Days CCY    Balance      Rate Amount
+___________ ___________ ____ ___ __________ _________ ______
+
+<StartDate>_2_1 <EndDate>_2_1   <Days>_2_1 <Currency> <LoanGlobalCurrentAmount>_2 <LoanAllInRate>_2 <AmountAccrued>_2_1
+
+
+
+
+
+
+
+
+<PricingOptionTitle> Principal Payment
+ <BorrowerShortName> will pay principal on the <PricingOption> loan effective
+<LoanEffectiveDate>_1, scheduled to reprice on <LoanRepricingDate>_1,
+totaling <Currency> <LoanGlobalCurrentAmount>_1.  
+
+
+
+
+<PricingOptionTitle> Principal Payment
+ <BorrowerShortName> will pay principal on the <PricingOption> loan effective
+<LoanEffectiveDate>_2, scheduled to reprice on <LoanRepricingDate>_2,
+totaling <Currency> <LoanGlobalCurrentAmount>_2.  
+
+
+
+
+Full Prepayment Fee Fee Payment 
+ <BorrowerShortName> will make payment totaling <Currency> <FullPrepaymentPenaltyAmount>.
+
+
+
+
+Full Prepayment Fee Fee Payment 
+ <BorrowerShortName> will make payment totaling <Currency> <FullPrepaymentPenaltyAmount>.
+
+
+
+
+In Deal: <DealName>
+In facility <FacilityName>_2 :
+
+<PricingOptionTitle> Interest Payment 
+ <BorrowerShortName> will pay interest on the <PricingOption> loan effective
+<LoanEffectiveDate>_3, scheduled to reprice on <LoanRepricingDate>_3,
+totaling <Currency> <AmountAccrued>_3_1.  
+
+Accrual Line Item(s) are as follows:
+
+<PricingOption> Interest Payment
+
+Rate Basis:  <RateBasis>
+
+      Start         End Days CCY    Balance      Rate Amount
+___________ ___________ ____ ___ __________ _________ ______
+
+<StartDate>_3_2 <EndDate>_3_2    <Days>_3_2 <Currency> <LoanGlobalCurrentAmount>_3 <LoanAllInRate>_3 <AmountAccrued>_3_2
+
+
+
+
+
+
+
+
+<PricingOptionTitle> Interest Payment 
+ <BorrowerShortName> will pay interest on the <PricingOption> loan effective
+<LoanEffectiveDate>_3, scheduled to reprice on <LoanRepricingDate>_3,
+totaling <Currency> <AmountAccrued>_3_2.  
+
+Accrual Line Item(s) are as follows:
+
+<PricingOption> Interest Payment
+
+Rate Basis:  <RateBasis>
+
+      Start         End Days CCY    Balance      Rate Amount
+___________ ___________ ____ ___ __________ _________ ______
+
+<StartDate>_3_3 <EndDate>_3_3    <Days>_3_2 <Currency> <LoanGlobalCurrentAmount>_3 <LoanAllInRate>_3 <AmountAccrued>_3_3
+
+
+
+
+
+
+
+
+<PricingOptionTitle> Interest Payment 
+ <BorrowerShortName> will pay interest on the Libor Option loan effective
+<LoanEffectiveDate>_3, scheduled to reprice on <LoanRepricingDate>_3,
+totaling <Currency> <AmountAccrued>_3_4.  
+
+Accrual Line Item(s) are as follows:
+
+<PricingOption> Interest Payment
+
+Rate Basis:  <RateBasis>
+
+      Start         End Days CCY    Balance      Rate Amount
+___________ ___________ ____ ___ __________ _________ ______
+
+<StartDate>_3_4 <EndDate>_3_4    <Days>_3_4 <Currency> <LoanGlobalCurrentAmount>_3 <LoanAllInRate>_3  <AmountAccrued>_3_4
+
+
+
+
+
+
+
+
+<PricingRule_Fee> Ongoing Fee Payment
+ <BorrowerShortName> will make payment against the <PricingRule_Fee> Fee totaling
+<Currency> <OngoingFeeCycleDueAmount>.  
+
+Accrual Line Item(s) are as follows:
+
+Ongoing Fee Payment
+
+Rate Basis:  <RateBasis>
+
+      Start         End Days CCY      Balance      Rate Amount
+___________ ___________ ____ ___ ____________ _________ ______
+
+<BILL_DATESTART>_1 <BILL_DATEEND>_1    <BILL_DAYS>_1 <BILL_CURRENCY>_1 <BILL_BALANCE>_1 <BILL_RATE>_1   <BILL_AMOUNT>_1
+<BILL_DATESTART>_2 <BILL_DATEEND>_2    <BILL_DAYS>_2 <BILL_CURRENCY>_2 <BILL_BALANCE>_2 <BILL_RATE>_2   <BILL_AMOUNT>_2
+<BILL_DATESTART>_3 <BILL_DATEEND>_3    <BILL_DAYS>_3 <BILL_CURRENCY>_3 <BILL_BALANCE>_3 <BILL_RATE>_3   <BILL_AMOUNT>_3
+<BILL_DATESTART>_4 <BILL_DATEEND>_4    <BILL_DAYS>_4 <BILL_CURRENCY>_4 <BILL_BALANCE>_4 <BILL_RATE>_4   <BILL_AMOUNT>_4
+<BILL_DATESTART>_5 <BILL_DATEEND>_5    <BILL_DAYS>_5 <BILL_CURRENCY>_5 <BILL_BALANCE>_5 <BILL_RATE>_5   <BILL_AMOUNT>_5
+
+
+
+<PricingOptionTitle> Principal Payment
+ <BorrowerShortName> will pay principal on the <PricingOption> loan effective
+<LoanEffectiveDate>_1, scheduled to reprice on <LoanRepricingDate>_1,
+totaling <Currency> <LoanGlobalCurrentAmount>_1.  
+
+
+
+
+Full Prepayment Fee Fee Payment 
+ <BorrowerShortName> will make payment totaling <Currency> <FullPrepaymentPenaltyAmount>.
+
+
+
+
+
+
+
+ 
+Deal ISIN: <Deal_ISIN>
+Deal CUSIP: <Deal_CUSIP>
+
+Facility ISIN / CUSIP are as follows: 
+
+Facility Name                           ISIN                 CUSIP               
+--------------------------------------------------------------------------------
+<FacilityName>_2                       <Facility_ISIN>_2         <Facility_CUSIP>_2           
+<FacilityName>_1                   <Facility_ISIN>_1         <Facility_CUSIP>_1           
+
+
+
+
+
+
+
+
+
+We will charge your account for an amount of <Currency> <TotalLoanAmount> on the effective date.
+
+
+For: <BorrowerShortName>
+<RIMethod>
+
+
+Account No:  
+<RIDescription>
+Name:  
+<RIDescription>
+Routing Number:  
+ 
+
+
+Reference: <DealName>, 
+
+
+
+
+
+|<comment>|

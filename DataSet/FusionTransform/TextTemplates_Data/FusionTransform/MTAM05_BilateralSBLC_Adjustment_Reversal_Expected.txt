@@ -1,0 +1,32 @@
+           Description: Libor Option Interest Payment Reversal  
+ The all-in rate is: 2.100000% 
+
+
+Effective 12-Feb-2015 we will reverse the interest payment made under the Libor Option totaling USD 46.67.
+
+Deal ISIN: 000402625-01
+Deal CUSIP: 037833100
+Facility ISIN: 000402625-01
+Facility CUSIP: 037833100
+This loan was effective 09-Dec-2014 and is scheduled
+to reprice on 16-Dec-2014.
+
+
+
+
+
+
+
+
+We will remit your funds USD 46.67 on the effective date.
+
+
+For: Borrower_ABC_35105
+
+Reference: BDSBLC15107, 
+
+
+
+
+
+|<comment>|

@@ -1,0 +1,90 @@
+
+On 14-Jan-2015 the following transaction(s) totaling:
+ USD 1,551.53 
+
+ will be made.
+
+ Details:
+In Deal: ARR_SC208062021143219BWA
+In facility ARR_TERM08062021144801 :
+
+SOFRS Interest Payment 
+ US Borrower will pay interest on the SOFR Simple ARR loan, totaling
+USD 1,051.53.  
+
+Accrual Line Item(s) are as follows:
+
+SOFR Simple ARR Interest Payment
+
+Rate Basis:  Actual/360
+
+      Start         End Days CCY    Balance      Rate Amount
+___________ ___________ ____ ___ __________ _________ ______
+
+3-Mar-2014 3-Mar-2014    1 USD 999,000.00 5.407000% 150.04
+4-Mar-2014 4-Mar-2014    1 USD 999,000.00 5.409000% 150.10
+5-Mar-2014 5-Mar-2014    1 USD 999,000.00 5.411000% 150.16
+6-Mar-2014 6-Mar-2014    1 USD 999,000.00 5.415000% 150.27
+7-Mar-2014 9-Mar-2014    3 USD 999,000.00 5.417000% 450.96
+
+
+
+
+
+
+
+
+SOFRS Principal Payment
+ US Borrower will pay principal on the SOFR Simple ARR loan effective
+10-Feb-2014, totaling USD 500.00.
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ Please remit your funds USD 1,551.53 to arrive on the effective date.
+
+
+For: US Borrower
+Correspondent Bank: CITIBANK N.A. (Swift ID: CITIUS33ARR)  
+Account: IQFS New York
+
+Reference: ARR_SC208062021143219BWA, 
+
+
+
+Rate Type: Simple ARR
+Look Back days : 3
+Lock Out days : 0
+Spread Adjustment : 0.000000%
+Base Rate Floor : N/A
+Legacy Base Rate Floor : N/A
+CCR Rounding :N/A
+Payment Lag :N/A
+
+
+
+       Date   Days Rate Applied   All-In Rate    Spread Spread Adjustment
+___________ ______ ____________ _____________ _________ _________________
+
+3-Mar-2014      1    2.907000% 5.4070000000% 2.500000%         0.000000%
+4-Mar-2014      1    2.909000% 5.4090000000% 2.500000%         0.000000%
+5-Mar-2014      1    2.911000% 5.4110000000% 2.500000%         0.000000%
+6-Mar-2014      1    2.915000% 5.4150000000% 2.500000%         0.000000%
+7-Mar-2014      3    2.917000% 5.4170000000% 2.500000%         0.000000%
+
+
+
+|<comment>|

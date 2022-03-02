@@ -1,0 +1,30 @@
+           Description: Libor Option Interest Payment Reversal  
+ The all-in rate is: 2.100000% 
+
+
+Effective 30-Dec-2014  the interest payment from MDLBNKLIQ_47129 under the Libor Option will be reversed for the amount USD 4.08.
+
+Please see details below.
+This loan was effective 19-Nov-2014 and is scheduled
+to reprice on 26-Nov-2014.
+
+
+
+
+Your share of the  Libor Option Interest Payment Reversal is: USD 1.63.
+
+
+
+ Please remit your funds USD 1.63 to arrive on the effective date.
+
+For: MDLBNKLIQL_51147
+Correspondent Bank: CITIBANK N.A. (Swift ID: CITIUS33ARR)  
+Account: IQFS New York
+
+Reference: AGENCY54119, 
+
+
+
+
+
+|<comment>|

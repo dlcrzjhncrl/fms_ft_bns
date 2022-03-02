@@ -1,0 +1,44 @@
+           Description: Libor Option Interest Payment  
+ The all-in rate is: 2.100000% 
+
+
+Effective 12-Feb-2015 Borrower_ABC_35105 will pay interest under the Libor Option totaling USD 46.67.
+
+Deal ISIN: 000402625-01
+Deal CUSIP: 037833100
+Facility ISIN: 000402625-01
+Facility CUSIP: 037833100
+This loan was effective 09-Dec-2014 and is scheduled
+to reprice on 16-Dec-2014.
+
+
+
+
+
+
+
+
+ Please remit your funds USD 46.67 to arrive on the effective date.
+
+
+For: Borrower_ABC_35105
+Correspondent Bank: CITIBANK N.A. (Swift ID: CITIUS33ARR)  
+Account: IQFS New York
+
+Reference: BDSBLC15107, 
+
+
+
+Accrual Line Item(s) are as follows:
+
+Rate Basis:  Actual/360
+
+      Start         End Days CCY    Balance      Rate Amount
+___________ ___________ ____ ___ __________ _________ ______
+
+16-Dec-2014 23-Dec-2014    8 USD 100,000.00 2.100000%  46.67
+
+
+
+
+|<comment>|

@@ -1,0 +1,58 @@
+           Description: SOFR Simple ARR Interest Payment  
+ The all-in rate is: 5.068000% 
+
+
+Effective 26-Dec-2014 US Borrower will pay interest under the SOFR Simple ARR totaling USD 990.75.
+
+Rate Type: Simple ARR
+Look Back days : 5
+Lock Out days : 2
+Spread Adjustment : 0.000000%
+
+
+
+
+
+
+
+
+ Please remit your funds USD 990.75 to arrive on the effective date.
+
+
+For: US Borrower
+Correspondent Bank: CITIBANK N.A. (Swift ID: CITIUS33ARR)  
+Account: IQFS New York
+
+Reference: ARR_SC701062021235647KMZ, 
+
+
+
+Accrual Line Item(s) are as follows:
+
+Rate Basis:  Actual/360
+
+      Start         End Days CCY      Balance      Rate Amount
+___________ ___________ ____ ___ ____________ _________ ______
+
+15-Dec-2014 16-Dec-2014    2 USD 1,000,000.00 5.096000% 283.11
+17-Dec-2014 21-Dec-2014    5 USD 1,000,000.00 5.095000% 707.64
+
+
+
+
+
+       Date   Days Rate Applied   All-In Rate    Spread Spread Adjustment
+___________ ______ ____________ _____________ _________ _________________
+
+15-Dec-2014      1    2.596000% 5.0960000000% 2.500000%         0.000000%
+16-Dec-2014      1    2.596000% 5.0960000000% 2.500000%         0.000000%
+17-Dec-2014      1    2.595000% 5.0950000000% 2.500000%         0.000000%
+18-Dec-2014      1    2.595000% 5.0950000000% 2.500000%         0.000000%
+19-Dec-2014      3    2.595000% 5.0950000000% 2.500000%         0.000000%
+
+Base Rate Floor : N/A
+Legacy Base Rate Floor : N/A
+CCR Rounding :N/A
+Payment Lag :0
+
+|<comment>|

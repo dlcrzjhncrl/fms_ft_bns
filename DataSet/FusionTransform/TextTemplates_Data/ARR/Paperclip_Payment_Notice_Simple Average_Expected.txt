@@ -1,0 +1,85 @@
+
+On 15-Jan-2015 the following transaction(s) totaling:
+ USD 5,333.75 
+
+ will be made.
+
+ Details:
+In Deal: ARR_SC230062021144848IGT
+In facility ARR_TERM30062021151053 :
+
+SOFSA Interest Payment 
+ US Borrower will pay interest on the SOFR Simple Average loan, totaling
+USD 4,833.75.  
+
+Accrual Line Item(s) are as follows:
+
+SOFR Simple Average Interest Payment
+
+Rate Basis:  Actual/360
+
+      Start         End Days CCY      Balance      Rate   Amount
+___________ ___________ ____ ___ ____________ _________ ________
+
+9-Jun-2014 15-Jun-2014    7 USD 5,000,000.00 4.971857% 4,833.75
+
+
+
+
+
+
+SOFSA Principal Payment
+ US Borrower will pay principal on the SOFR Simple Average loan effective
+2-Jun-2014, totaling USD 500.00.
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ Please remit your funds USD 5,333.75 to arrive on the effective date.
+
+
+For: US Borrower
+Correspondent Bank: CITIBANK N.A. (Swift ID: CITIUS33ARR)  
+Account: IQFS New York
+
+Reference: ARR_SC230062021144848IGT, 
+
+
+
+Rate Type: Simple Average
+Look Back days : 5
+Lock Out days : 0
+Spread Adjustment : 0.000000%
+Observation period shift applies : No
+Base Rate Floor : N/A
+Legacy Base Rate Floor : N/A
+CCR Rounding :N/A
+Payment Lag :N/A
+
+
+
+       Date   Days Rate Applied Calculated Rate   All-In Rate    Spread Spread Adjustment Cumulative Interest
+___________ ______ ____________ _______________ _____________ _________ _________________ ___________________
+
+9-Jun-2014      1    2.463000%   2.4718571429% 4.9718571429% 2.500000%         0.000000%              690.54
+10-Jun-2014      2    2.465000%   2.4718571429% 4.9718571429% 2.500000%         0.000000%            1,381.07
+11-Jun-2014      3    2.476000%   2.4718571429% 4.9718571429% 2.500000%         0.000000%            2,071.61
+12-Jun-2014      4    2.474000%   2.4718571429% 4.9718571429% 2.500000%         0.000000%            2,762.14
+13-Jun-2014      7    2.475000%   2.4718571429% 4.9718571429% 2.500000%         0.000000%            4,833.75
+
+
+
+|<comment>|

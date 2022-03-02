@@ -1,0 +1,60 @@
+
+On <EffectiveDate> the following transaction(s) totaling:
+ <Currency> <RequestedAmount> 
+
+ will be made.
+
+ Details:
+In Deal: <DealName>
+In facility <FacilityName> :
+
+LIBOR Interest Payment 
+ <BorrowerShortName> will pay interest on the <PricingOption> loan effective
+<LoanEffectiveDate>, scheduled to reprice on <Loan_RepricingDate>,
+totaling <Currency> <RequestedAmount>.  
+
+Accrual Line Item(s) are as follows:
+
+<PricingOption> Interest Payment
+
+Rate Basis:  Actual/360
+
+      Start         End Days CCY      Balance      Rate Amount
+___________ ___________ ____ ___ ____________ _________ ______
+
+<BILL_DATESTART>_1 <BILL_DATEEND>_1    <BILL_DAYS>_1 <BILL_CURRENCY>_1 <BILL_BALANCE>_1 <BILL_RATE>_1 <BILL_AMOUNT>_1
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ Please remit your funds USD 111.11 to arrive on the effective date.
+
+
+For: <BorrowerShortName>
+Correspondent Bank: <Correspondent_Bank>  
+Account: <Account>
+
+Reference: , 
+
+
+
+
+
+|<comment>|

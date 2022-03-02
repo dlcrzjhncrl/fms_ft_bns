@@ -1,0 +1,75 @@
+US Borrower                             Interest Due               4,947.88  
+25 Camp Road                            
+New York  NY 10081                      Total Due:                 4,947.88   USD
+United States                           
+                                        	   Due Date: 19-Jan-2015
+															
+Contact:  Jeff Bezos
+
+Re:  ARR_SC124072021011329UEI
+
+Prepared: 13-Jan-2015
+
+Please be advised that the following payments will be due on 19-Jan-2015
+
+
+
+
+
+________________________________________________________________________________
+
+NOTE: PROVISIONAL RATE IS USED
+Loan Details for -  US BORROWE01007
+Facility Name:             ARR_TERM24072021013033
+Pricing Option:            SOFR Daily Rate Compounding W OPS(US BORROWE01007)
+Rate Basis:                Actual/360
+ARR Calculation Method: Daily Rate With Compounding
+Look Back days: 3
+Lock Out days: 0
+Base Rate Floor: 1.344100%
+Legacy Base Rate Floor: 1.523000%
+CCR Rounding: 4
+Payment Lag: 0
+Observation period shift applies: Yes
+
+        Start           End Days            Balance       Rate             Amount
+_____________ _____________ ____ __________________ __________ __________________
+
+  12-Jan-2015   12-Jan-2015    1       5,000,000.00  5.082000%             705.83
+  13-Jan-2015   13-Jan-2015    1       5,000,000.00  5.089200%             706.83
+  14-Jan-2015   18-Jan-2015    5       5,000,000.00  5.090700%           3,535.22
+
+
+     Interest   Observation    Obs.        Rate      Compounding Compounded Rate
+  Period Date   Period Date  Period     Applied           Factor                
+                               Days                                             
+_____________ _____________ _______ ___________ ________________ _______________
+
+  12-Jan-2015   07-Jan-2015       1   2.582000%         1.000000   2.5820000000%
+  13-Jan-2015   08-Jan-2015       1   2.589000%         1.000077   2.5892000000%
+  14-Jan-2015   09-Jan-2015       3   2.588000%         1.001043   2.5907000000%
+  15-Jan-2015   12-Jan-2015       1   2.590000%         0.999884   2.5897000000%
+
+
+
+
+Interest Due                                                         4,947.88 
+Total Due:                                                           4,947.88 
+
+
+
+
+
+
+
+________________________________________________________________________________
+
+
+Please remit your payment on the due date
+
+For billing inquiries contact:  Steven Bailey
+
+
+
+
+

@@ -1,0 +1,85 @@
+                ***** Rate Setting *****
+	
+	
+Description: USD Loan Repricing for the Deal BDSBLC15107.
+
+Effective: 04-Feb-2015 
+
+Borrower Borrower_ABC_35105 in Facility FACAMCH1108092021222028JUA has the following loans repricing: 
+
+                                                           Current      
+                                                           Reprice      
+Description                                 Global Amount  Date         
+----------------------------------------------------------------------------------------
+ Libor Option Loan                               100,000.00    04-Feb-2015  
+
+
+
+
+Borrower Borrower_ABC_35105 in Facility FACAMCH1108092021222028JUA will make the following interest payments: 
+
+Description                                 Global Amount
+--------------------------------------------------------------------------------
+ Libor Option                                        50.56 
+
+
+
+
+
+Borrower Borrower_ABC_35105 in Facility FACAMCH1108092021222028JUA will have the following new loans: 
+
+                                                                      
+Pricing                                                               
+Option                                    Global Amount               
+----------------------------------------------------------------------------------------
+ Fixed Rate Option                              100,000.00               
+
+
+
+
+ 
+
+
+Borrower Borrower_ABC_35105 in Facility FACAMCH1108092021222028JUA rates have been set as follows:
+
+
+                                                                    Next         
+Pricing                                     Global                  Reprice      
+Option                                      Amount   All In Rate    Date         
+----------------------------------------------------------------------------------------
+ Fixed Rate Option                         100,000.00      2.150000%                 
+	 Fixed Rate Option: 2.150000%
+	 Spread: 0.000000%
+	      Projected Interest: 41.81     
+	 Projected  Interest Due Date: 11-Feb-2015
+
+
+
+
+
+
+
+
+Deal ISIN: 000402625-01
+Deal CUSIP: 037833100
+Facility: FACAMCH1108092021222028JUA 
+
+Facility ISIN: 000402625-01
+Facility CUSIP: 037833100
+
+
+
+ Please remit your funds USD 50.56 to arrive on the effective date.
+
+For: Borrower_ABC_35105
+Correspondent Bank: CITIBANK N.A. (Swift ID: CITIUS33ARR)  
+Account: IQFS New York
+
+Reference: BDSBLC15107, 
+
+
+
+
+
+
+|<comment>|

@@ -1,0 +1,42 @@
+                          ***** Rate Setting *****
+
+		
+Description: <PricingOption> Borrowing 
+
+Effective: <EffectiveDate> <BorrowerShortName> has elected to borrow under the
+<PricingOption> a total of <Currency> <RequestedAmount> (<Currency_2> <Converted_RequestedAmount>). 
+
+Please see details below.
+
+Deal ISIN: <Deal_ISIN>
+Deal CUSIP: <Deal_CUSIP>
+Facility ISIN: <Facility_ISIN>
+Facility CUSIP: <Facility_CUSIP>
+
+          The <Currency> to <Currency_2> exchange rate is <ExchangeRate_1>.
+          The <Currency_3> to <Currency_2> exchange rate is <ExchangeRate_2>.
+Term: <EffectiveDate> - <AdjustedDueDate>
+Maturity Date: <MaturityDate>
+<PricingOption>: <BaseRate>
+The all-in rate is: <AllInRate>
+
+
+The projected interest due on <AdjustedDueDate> is <Currency> <InterestDue> (<Currency_2> <Converted_InterestDue>).
+
+
+
+
+
+
+We will remit your funds <Currency> <RequestedAmount> on the effective date.
+
+
+For: <BorrowerShortName>
+
+Reference: <DealName>, <PricingOption> Borrowing
+
+
+
+
+
+|<comment>|

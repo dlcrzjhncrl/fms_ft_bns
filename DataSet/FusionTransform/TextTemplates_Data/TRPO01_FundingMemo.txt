@@ -1,0 +1,66 @@
+Funding Memorandum  
+                                             Commonwealth Bank of Australia             
+                                                  Non-Agency Australia 
+                                       * * * * PLEASE DELIVER IMMEDIATELY * * * *
+
+
+Date: 21-Sep-2020
+
+To: [SELLER] as Seller
+	Att.: [SELLER_CONTACT]  
+	Tel.: [SELLER_CONTACT_NUM]
+	Fax: 
+From: [BUYER] as Buyer
+	Att.: [INPUTTER_USER_FIRST_NAME] [INPUTTER_USER_SURNAME]
+	Tel.: 
+	Fax: 
+RE: Assignment Buy dated 21-Sep-2020
+
+Credit Agreement: [DEAL_NAME]
+Facility: [FACILITY_NAME]
+Global Facility Amount:  [GLOBAL_FACILITY_AMOUNT] [CURRENCY]
+Sale Amount: [SALE_AMOUNT] [CURRENCY]
+Percentage of Total: [PERCENTAGE_TOTAL]%
+Loans outstanding under facility as of [EFFECTIVE_DATE]  (Effective Date)
+
+Pricing  Cur               Global              Buyer's  Curr. Int.   Repricing Base Rate    Margin RAC Rate     All-In
+Option             Amount of Loan        Share of Loan  Start Date        Date                                    Rate
+________ ___ ____________________ ____________________ ___________ ___________ _________ _________ ________ __________
+
+BBSW     AUD            60,000.00               600.18  7-Sep-2020  7-Oct-2020 1.291000% 2.000000%           3.291000%
+
+
+
+
+On 21-Sep-2020 Total Loan Outstandings:  60,000.00 AUD
+
+
+
+                                                   Funding Memorandum
+                                                    Payment Details			
+
+
+On 21-Sep-2020 Seller will remit to Buyer AUD 9,399.82  calculated as follows:
+
+
+            (594.18) AUD (99.000000% x Buyer's share of the outstanding loans under the [FACILITY_NAME]
+
+                         Facility)
+
+           9,994.00  AUD (1.000000% x Buyer's share of the unfunded under the [FACILITY_NAME] Facility)
+
+
+Buyer's Payment Instructions:
+Reference: [DEAL_NAME]
+
+Seller and Buyer acknowledge that there have been no one-time fee payments and/or principal repayments/commitment 
+reductions, since the Trade Date, [CIRCLE_LEGAL_TRADE_DATE].
+
+Seller and Buyer hereby agree that payment will be made as calculated above on the Actual Settlement Date.
+
+[SELLER]                                                Commonwealth Bank of Australia
+
+__________________________    __________________________    __________________________    __________________________
+
+__________________________    __________________________    __________________________    __________________________
+(Print Name and Title)        (Print Name and Title)        (Print Name and Title)        (Print Name and Title)

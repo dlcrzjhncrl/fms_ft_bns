@@ -1,0 +1,23 @@
+                 Description: Scheduled Commitment Decrease
+
+
+BORROWER: <BorrowerName>
+DEAL NAME: <DealName>
+
+COMMITMENT DECREASE
+Effective <EffectiveDate>, the commitment for <BorrowerName>
+will be reduced from <Currency> <FacilityGlobalCurrentAmount> to <Currency> <ScheduleItemRemainingAmount>.
+
+
+
+
+
+
+Deal ISIN: <Deal_ISIN>
+Deal CUSIP: <Deal_CUSIP>
+Facility ISIN: <Facility_ISIN>
+Facility CUSIP: <Facility_CUSIP>
+
+ If you have any questions, please call the undersigned.
+
+|<comment>|

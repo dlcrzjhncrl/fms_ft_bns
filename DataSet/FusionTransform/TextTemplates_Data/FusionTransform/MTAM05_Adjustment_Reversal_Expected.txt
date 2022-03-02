@@ -1,0 +1,38 @@
+           Description: Libor Option Interest Payment Reversal  
+ The all-in rate is: 2.200000% 
+
+
+Effective 24-Dec-2014 we will reverse the interest payment made under the Libor Option totaling USD 88.61.
+
+This loan was effective 17-Jun-2014 and is scheduled
+to reprice on 17-Jul-2014.
+
+
+
+
+
+
+
+
+We will credit your account for an amount of USD 88.61 on the effective date.
+
+
+For: BilateralBorrower30106
+Demand Deposit Account
+
+
+Account No:  
+DDA1
+Name:  
+Mark Zuckerberg Test1
+Routing Number:  
+ 
+
+
+Reference: BILATERALDEAL29138, 
+
+
+
+
+
+|<comment>|

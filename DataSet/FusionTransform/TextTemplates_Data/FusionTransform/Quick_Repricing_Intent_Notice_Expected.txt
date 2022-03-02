@@ -1,0 +1,44 @@
+                          ***** Rate Setting *****
+	
+	
+	Description: USD Loan Repricing 
+
+Effective 17-Dec-2014, Borrower_ABC_35105 has the following loan repricing:
+	 Description: Libor Option Loan 
+	 Amount: USD 150,000.00
+	 Repriced Amount: USD 160,000.00
+	 Repricing Date: 17-Dec-2014
+
+Repricing details follow.
+
+	Deal ISIN: 000402625-01
+	Deal CUSIP: 037833100
+	Facility ISIN: 000402625-01
+	Facility CUSIP: 037833100
+	Next Repricing Date: 19-Jan-2015.
+
+	Libor Option: 0.100000%
+	The all-in rate is: 2.100000%
+
+
+
+	The projected interest due on 24-Dec-2014 is USD 65.33.
+	
+	This repricing includes an increase of USD 10,000.00.	
+	
+	The total amount of outstanding will be USD 160,000.00
+
+
+
+		
+
+
+We will remit your funds USD 10,000.00 on the effective date.
+
+For: Borrower_ABC_35105
+
+Reference: BDSBLC15107, Libor Option Repricing
+
+
+
+|<comment>|

@@ -1,0 +1,53 @@
+BORROWERDEALTERMINATION05129            Fees Due                     185.42  
+11 Madison Avenue                       
+New York  NY 10010                      Total Due:                   185.42   USD
+United States                           
+                                        	   Due Date: 14-Apr-2015
+															
+Contact:  Giannis Antetokounmpo
+Phone:  +13103636000
+
+Re:  DEALTERMINATION12116
+
+Prepared: 09-Feb-2015
+
+Please be advised that the following payments will be due on 14-Apr-2015
+
+
+
+
+
+________________________________________________________________________________
+
+
+Facility Name:             TERMFACILITY44143
+Fee Type:                  Available/Unutilized
+Rate Basis:                Actual/360
+
+        Start           End Days            Balance       Rate             Amount
+_____________ _____________ ____ __________________ __________ __________________
+
+  14-Jan-2015   20-Jan-2015    7       5,000,000.00  0.020000%              19.44
+  21-Jan-2015   13-Apr-2015   83       4,510,000.00  0.020000%             207.97
+
+
+
+
+
+Total Fees:                                                            227.41 
+Paid Amount:                                                            41.99 
+Total Due:                                                             185.42 
+
+ Current Per Diem:                                                       2.51
+
+
+
+
+
+
+________________________________________________________________________________
+
+
+We will charge your DDA# DDA1
+
+For billing inquiries contact:  Steven Bailey

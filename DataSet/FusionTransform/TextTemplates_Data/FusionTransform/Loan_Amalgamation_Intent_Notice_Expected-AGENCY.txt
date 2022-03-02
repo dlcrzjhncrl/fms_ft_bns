@@ -1,0 +1,84 @@
+                ***** Rate Setting *****
+	
+	
+Description: USD Loan Repricing for the Deal AGENCY05103.
+
+Effective: 14-Aug-2014 
+
+Borrower MDLBNKLIQ_47129 in Facility CRED0118154 has the following loans repricing: 
+
+                                                           Current      
+                                                           Reprice      
+Description                                 Global Amount  Date         
+----------------------------------------------------------------------------------------
+ Libor Option Loan                                9,811.32    14-Aug-2014  
+
+Borrower MDLBNKLIQ_47129 in Facility CRED0118154 has elected to increase outstandings as follows:
+
+Description                                 Global Amount
+----------------------------------------------------------------------------------------
+ Outstandings increase                           10,800.00 
+
+
+
+Borrower MDLBNKLIQ_47129 in Facility CRED0118154 will have the following new loans: 
+
+                                                         Next         
+Pricing                                                  Reprice      
+Option                                    Global Amount  Date         
+----------------------------------------------------------------------------------------
+ Libor Option                                   20,611.32   15-Sep-2014  
+          Continuation Date: 10-Sep-2014
+
+
+
+
+ 
+
+
+Borrower MDLBNKLIQ_47129 in Facility CRED0118154 rates have been set as follows:
+
+
+                                                                    Next         
+Pricing                                     Global                  Reprice      
+Option                                      Amount   All In Rate    Date         
+----------------------------------------------------------------------------------------
+ Libor Option                              20,611.32      2.100000%     15-Sep-2014  
+	 Libor Option: 0.100000%
+	 Spread: 2.000000%
+	      Projected Interest: 38.47     
+	 Projected  Interest Due Date: 15-Sep-2014
+
+
+
+
+
+
+
+Borrower MDLBNKLIQ_47129 in Facility CRED0154129 has the following loans repricing: 
+
+                                                           Current      
+                                                           Reprice      
+Description                                 Global Amount  Date         
+----------------------------------------------------------------------------------------
+ Libor Option Loan                               10,800.00    14-Aug-2014  
+
+Borrower MDLBNKLIQ_47129 in Facility CRED0154129 has elected to repay outstandings as follows:
+
+Description                                 Global Amount
+----------------------------------------------------------------------------------------
+ Principal Payment                               10,800.00 
+
+
+
+
+
+
+
+
+
+
+
+
+
+|<comment>|

@@ -1,0 +1,10 @@
+Description: Outstanding Change Transaction for Loan <Alias>
+	
+An outstanding change transaction will be released effective <EffectiveDate>,  on the <PricingOption> Loan effective <LoanEffectiveDate> , Repricing Date: <RepricingDate>. The following attributes will change:
+
+Field                                      Previous Value    New Value                                             
+--------------------------------------------------------------------------------
+<ChangeItem>                            <PreviousValue>        <NewValue>                                            
+ 
+
+|<comment>|

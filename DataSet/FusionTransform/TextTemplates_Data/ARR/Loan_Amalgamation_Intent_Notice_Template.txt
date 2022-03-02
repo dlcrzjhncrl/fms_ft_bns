@@ -1,0 +1,64 @@
+Description: <Deal_Currency> Loan Repricing for the Deal <Deal_Name>.
+
+Effective: <LoanRepricing_EffectiveDate> 
+
+Borrower <Borrower_ShortName> in Facility <Facility_Name> has the following loans repricing: 
+
+                                                           Current      
+                                                           Reprice      
+Description                                 Global Amount  Date         
+----------------------------------------------------------------------------------------
+ <Revise_Pricing_Option>                 <Loan_RequestedAmount>    <Loan1_RepricingDate>  
+ Overridable Loan                                                       
+ <Revise_Pricing_Option>                 <Loan_RequestedAmount>    <Loan2_RepricingDate>  
+ Overridable Loan                                                       
+
+
+
+
+Borrower <Borrower_ShortName> in Facility <Facility_Name> will have the following new loans: 
+
+                                                         Next         
+Pricing                                                  Reprice      
+Option                                    Global Amount  Date         
+----------------------------------------------------------------------------------------
+ <Revise_Pricing_Option>              <Rollover_RequestedAmount>   <Rollover_RepricingDate>  
+ Overridable                                                          
+          Continuation Date: <LoanRepricing_ContinuationDate>
+
+
+ 
+
+
+
+Borrower <Borrower_ShortName> in Facility <Facility_Name> floating rate detail is as follows: 
+
+Pricing Option                            Global Amount    All In Rate
+----------------------------------------------------------------------------------------
+ <Revise_Pricing_Option>              <Rollover_RequestedAmount>       <Rollover_AllInRate>
+ Overridable                                                          
+
+	 <New_Pricing_Option>: <Rollover_BaseRate>
+	 Spread: <Rollover_SpreadRate>
+	 Rate Type: <Rollover_CalculationMethod>
+	 Look Back days : <Rollover_ARRLookbackDays>
+	 Lock Out days : <Rollover_ARRLockoutDays>
+	 <New_Pricing_Option> on Effective Start Date : <Rollover_BaseRate>
+	 Spread Adjustment : <Rollover_UISpreadAdjustment>
+Observation period shift applies : <Rollover_ARRObservationPeriod>
+	Base Rate Floor :<Rollover_BaseRateFloor>
+Legacy Base Rate Floor :<Rollover_LegacyBaseRateFloor>
+CCR Rounding :<Rollover_CCRRounding>
+Payment Lag :<Rollover_PaymentLag>
+
+
+
+
+
+
+
+
+
+
+
+|<comment>|

@@ -1,0 +1,56 @@
+
+On <EffectiveDate> multiple transactions will be made with totals:
+ <Currency> <RequestedAmount> 
+
+ Your share total is:
+ <Currency> <LenderAmount>
+
+ Details:
+In Deal: <DealName>
+In facility <FacilityName> :
+
+LIBOR Interest Payment 
+ <BorrowerShortName> will pay interest on the <PricingOption> loan effective
+<LoanEffectiveDate>, scheduled to reprice on <Loan_RepricingDate>,
+totaling <Currency> <RequestedAmount>.  Your share is: <Currency> <LenderAmount>.
+
+
+
+Accrual Line Item(s) are as follows:
+
+<PricingOption> Interest Payment
+
+Rate Basis:  Actual/360
+
+      Start         End Days CCY    Balance      Rate Amount
+___________ ___________ ____ ___ __________ _________ ______
+
+<BILL_DATESTART>_1 <BILL_DATEEND>_1    <BILL_DAYS>_1 <BILL_CURRENCY>_1 <BILL_BALANCE>_1 <BILL_RATE>_1 <BILL_AMOUNT>_1
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+We will remit your funds <Currency> <LenderAmount> on the effective date.
+
+For: <Lender>
+
+Reference: , 
+
+
+
+
+
+|<comment>|

@@ -1,0 +1,35 @@
+                  Description: Available/Unutilized <PaymentDescription> Payment                  
+
+
+Effective <EffectiveDate> <BorrowerShortName> will make payment against the Available/Unutilized Fee totaling <Currency> <Amount>.
+
+
+Deal ISIN: <Deal_ISIN>
+Deal CUSIP: <Deal_CUSIP>
+Facility ISIN: <Facility_ISIN>
+Facility CUSIP: <Facility_CUSIP>
+
+
+
+
+
+
+We will charge your account for an amount of <Currency> <Amount> on the effective date.
+
+
+For: <BorrowerShortName>
+<Remittance_Description>
+
+
+Account No:  
+<RI_Description>
+Name:  
+<RI_Description>
+Routing Number:  
+ 
+
+
+Reference: <Deal>, 
+
+
+|<comment>|

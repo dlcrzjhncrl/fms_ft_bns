@@ -1,0 +1,34 @@
+                  Description: Upfront Facility Fees
+
+
+Effective <EffectiveDate>, Upfront Facility Fees totalling <Currency> <Amount> are due.
+
+
+
+Fee                            Amount                Total
+________________ ____________________ ____________________
+
+Upfront Facility             <Amount>             <Amount>
+________________ ____________________ ____________________
+
+TOTAL:                       <Amount>             <Amount>
+
+
+
+
+Deal ISIN: <Deal_ISIN>
+Deal CUSIP: <Deal_CUSIP>
+
+
+
+ Please remit your funds <Currency> <Amount> to arrive on the effective date.
+
+
+For: <BorrowerShortName>
+Correspondent Bank: <CorrespondentBank>  
+Account: <Account> <State>
+
+Reference: <Deal>, <PricingOption_2> from Borrower / Agent / Third Party
+
+
+|<comment>|

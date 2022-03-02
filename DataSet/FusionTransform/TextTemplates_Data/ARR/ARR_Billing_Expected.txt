@@ -1,0 +1,65 @@
+US Borrower                             Interest Due              19,444.44  
+25 Camp Road                            
+New York  NY 10081                      Total Due:                19,444.44   USD
+United States                           
+                                        	   Due Date: 21-Aug-2013
+Contact:  US BORROWER
+
+Re:  ARR_SC827042021000455GTH
+
+Prepared: 21-Aug-2013
+
+Please be advised that the following payments will be due on 21-Aug-2013
+
+
+
+
+
+________________________________________________________________________________
+
+Loan Details for -  US BORROWE00393
+Facility Name:             ARR_TERM27042021001803
+Pricing Option:            SOFR Daily Rate Compounding W OPS(US BORROWE00393)
+Rate Basis:                Actual/360
+ARR Calculation Method:    Daily Rate With Compounding
+Look Back:                 5
+Lock Out:                  0
+
+        Start           End Days            Balance       Rate             Amount
+_____________ _____________ ____ __________________ __________ __________________
+
+  14-Aug-2013   14-Aug-2013    1       5,000,000.00  5.000000%             694.44
+  15-Aug-2013   18-Aug-2013    4       5,000,000.00  5.000000%           2,777.78
+  19-Aug-2013   19-Aug-2013    1       5,000,000.00  5.000000%             694.44
+  20-Aug-2013   20-Aug-2013    1       5,000,000.00  5.000000%             694.45
+                               
+
+     Interest   Observation    Obs.        Rate      Compounding Compounded Rate
+  Period Date   Period Date  Period     Applied           Factor                
+                               Days                                             
+_____________ _____________ _______ ___________ ________________ _______________
+
+  14-Aug-2013   07-Aug-2013       1   0.021380%         100.000000%   0.0213800000%
+  15-Aug-2013   08-Aug-2013       1   0.021390%         100.005939%   0.0213912703%
+  19-Aug-2013   09-Aug-2013       3   0.021400%         100.011881%   0.0214025425%
+  20-Aug-2013   12-Aug-2013       1   0.021380%         100.029716%   0.0213863534%
+                           
+
+
+
+Interest Due                                                         <BILL_CYCLEDUE> 
+Balance Forward:                                                     <BILL_BALANCE> 
+Total Due:                                                          19,444.44 
+
+
+
+
+
+
+
+________________________________________________________________________________
+
+
+Please remit your payment on the due date
+
+For billing inquiries contact:  Steven Bailey 

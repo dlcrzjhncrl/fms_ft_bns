@@ -1,0 +1,81 @@
+                ***** Rate Setting *****
+	
+	
+Description: <Currency> Loan Repricing for the Deal <Deal_Name>.
+
+Effective: <Loan_EffectiveDate> 
+
+
+
+Borrower <Borrower_ShortName> in Facility <Facility_Name> has the following loans repricing: 
+
+                                                                          Current      
+                                                                          Reprice      
+Description                               Global Amount     Your Share    Date         
+----------------------------------------------------------------------------------------
+ <PricingOption> Loan                             <RequestedAmount>         <YourShare>    <Loan_EffectiveDate>   
+
+
+
+
+Borrower <Borrower_ShortName> in Facility <Facility_Name> will make the following interest payments: 
+
+Description                   Global Amount      Your Share
+--------------------------------------------------------------------------------
+ <PricingOption>                           <RequestedAmount_2>              <YourShare_1>
+
+
+
+Borrower <Borrower_ShortName> in Facility <Facility_Name> will have the following new loans: 
+
+                                                                      
+Pricing                                                               
+Option                                    Global Amount     Your Share
+----------------------------------------------------------------------------------------
+ <NewPricingOption>                              <RequestedAmount>        <YourShare>
+
+
+
+
+
+
+Borrower <Borrower_ShortName> in Facility <Facility_Name> rates have been set as follows:
+
+
+                                                                    Next         
+Pricing                                     Global                  Reprice      
+Option                                      Amount   All In Rate    Date         
+----------------------------------------------------------------------------------------
+ <NewPricingOption>                         <RequestedAmount>      <AllInRate_1>                 
+	 <NewPricingOption>: <BaseRate_1>
+	 Spread: <SpreadRate_1>
+	      Projected Interest: <CycleDue_1>     Your Share: <YourShare_3> 
+	 Projected  Interest Due Date: <ProjectedIntDueDate_1>
+
+
+
+
+
+
+
+Deal ISIN: <DEAL_ISIN>
+Deal CUSIP: <DEAL_CUSIP>
+Facility: <Facility_Name> 
+
+Facility ISIN: <FACILITY_ISIN>
+Facility CUSIP: <FACILITY_CUSIP>
+
+
+We will remit your funds <Currency> <YourShare_1> on the effective date.
+
+For: <Lender>
+
+Reference: <Deal_Name>, 
+
+
+
+
+
+
+
+|<comment>|

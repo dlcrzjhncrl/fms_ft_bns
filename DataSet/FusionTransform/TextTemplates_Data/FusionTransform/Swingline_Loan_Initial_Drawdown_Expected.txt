@@ -1,0 +1,42 @@
+                          ***** Rate Setting *****
+
+		
+Description: Swing Line Option Borrowing 
+
+Effective: 18-Feb-2015 BORROWER SWINGLINE42141 has elected to borrow under the
+Swing Line Option a total of GBP 10,000.00 (EUR 7,808.84). 
+
+Please see details below.
+
+Deal ISIN: 000402625-01
+Deal CUSIP: 037833100
+Facility ISIN: 000402625-01
+Facility CUSIP: 037833100
+
+          The GBP to EUR exchange rate is 0.780884.
+          The USD to EUR exchange rate is 0.72.
+Term: 18-Feb-2015 - 25-Feb-2015
+Maturity Date: 18-Feb-2016
+Swing Line Option: 0.100000%
+The all-in rate is: 0.600000%
+
+
+The projected interest due on 25-Feb-2015 is GBP 1.17 (EUR 0.91).
+
+
+
+
+
+
+We will remit your funds GBP 10,000.00 on the effective date.
+
+
+For: BORROWER SWINGLINE42141
+
+Reference: AGENCYSWINGLINE37158, Swing Line Option Borrowing
+
+
+
+
+
+|<comment>|

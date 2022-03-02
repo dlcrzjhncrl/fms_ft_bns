@@ -1,0 +1,51 @@
+MDLBNKLIQ_47129                         Principal Due                32.65  
+                                        
+                                        Total Due:                   32.65   USD
+                                        
+                                        	   Due Date: 02-Oct-2014
+
+Re:  AGENCY05103
+
+Prepared: 25-Sep-2014
+
+Please be advised that the following payments will be due on 02-Oct-2014
+
+
+
+
+
+________________________________________________________________________________
+
+Loan Details for -  MDLBNKLIQ_00015
+Facility Name:             CRED0118154
+Pricing Option:            Libor Option(MDLBNKLIQ_00015)
+                           Repricing Frequency:7 Day(s)
+                           Repricing Date:14-Aug-2014
+Rate Basis:                <BILL_RATEBASIS>
+
+        Start           End Days            Balance       Rate             Amount
+_____________ _____________ ____ __________________ __________ __________________
+
+  25-Sep-2014   01-Oct-2014    7         28.57_1  2.100000%             4.08
+
+
+
+
+Interest Due                                                             4.08 
+Balance Forward:                                                         28.57 
+Total Due:                                                               32.65 
+
+
+
+
+
+
+
+________________________________________________________________________________
+
+
+Please remit your funds   to arrive on the effective date. 
+ Correspondent Bank: CITIBANK N.A. (Swift ID: CITIUS33ARR)  
+Account: IQFS New York
+
+For billing inquiries contact:  Steven Bailey

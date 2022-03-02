@@ -1,0 +1,31 @@
+                          ***** Rate Setting *****
+	
+	
+	Description: <Currency> Loan Repricing 
+
+Effective <Loan_EffectiveDate>, <Borrower_ShortName> has the following loan repricing:
+	 Description: <PricingOption> Loan 
+	 Amount: <Currency> <RequestedAmount>
+	 Repriced Amount: <Currency> <RequestedAmount_1>
+	 Repricing Date: <Loan_EffectiveDate>
+
+Repricing details follow.
+
+	Next Repricing Date: <RepricingDate>.
+
+	<PricingOption>: <BaseRate_1>
+	The all-in rate is: <AllInRate_1>
+
+
+
+	The projected interest due on <ProjectedIntDueDate_1> is <Currency> <CycleDue_1>.
+	
+	
+
+
+
+		
+
+
+
+|<comment>|

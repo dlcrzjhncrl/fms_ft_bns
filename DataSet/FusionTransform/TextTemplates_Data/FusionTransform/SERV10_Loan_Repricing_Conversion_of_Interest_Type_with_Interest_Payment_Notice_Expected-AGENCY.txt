@@ -1,0 +1,78 @@
+                ***** Rate Setting *****
+	
+	
+Description: USD Loan Repricing for the Deal AGENCY05103.
+
+Effective: 24-Oct-2014 
+
+Borrower MDLBNKLIQ_47129 in Facility FACAMCH1125072021213428WQJ has the following loans repricing: 
+
+                                                           Current      
+                                                           Reprice      
+Description                                 Global Amount  Date         
+----------------------------------------------------------------------------------------
+ Libor Option Loan                                8,000.00    24-Oct-2014  
+
+
+
+
+Borrower MDLBNKLIQ_47129 in Facility FACAMCH1125072021213428WQJ will make the following interest payments: 
+
+Description                                 Global Amount
+--------------------------------------------------------------------------------
+ Libor Option                                         3.89 
+
+
+
+
+
+Borrower MDLBNKLIQ_47129 in Facility FACAMCH1125072021213428WQJ will have the following new loans: 
+
+                                                                      
+Pricing                                                               
+Option                                    Global Amount               
+----------------------------------------------------------------------------------------
+ Fixed Rate Option                               8,000.00               
+
+
+
+
+ 
+
+
+Borrower MDLBNKLIQ_47129 in Facility FACAMCH1125072021213428WQJ rates have been set as follows:
+
+
+                                                                    Next         
+Pricing                                     Global                  Reprice      
+Option                                      Amount   All In Rate    Date         
+----------------------------------------------------------------------------------------
+ Fixed Rate Option                          8,000.00      3.000000%                 
+	 Fixed Rate Option: 1.000000%
+	 Spread: 2.000000%
+	      Projected Interest: 4.67     
+	 Projected  Interest Due Date: 31-Oct-2014
+
+
+
+
+
+
+
+
+
+
+ Please remit your funds USD 3.89 to arrive on the effective date.
+
+For: MDLBNKLIQ_47129
+Correspondent Bank: CITIBANK N.A. (Swift ID: CITIUS33ARR)  
+Account: IQFS New York
+
+Reference: AGENCY05103, 
+
+
+
+
+
+
+|<comment>|

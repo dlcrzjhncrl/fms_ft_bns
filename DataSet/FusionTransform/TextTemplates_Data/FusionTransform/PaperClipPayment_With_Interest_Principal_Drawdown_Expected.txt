@@ -1,0 +1,87 @@
+
+On 17-Mar-2015 the following transaction(s) totaling:
+ USD 15,046.67 
+
+ will be made.
+
+ Details:
+In Deal: BDSBLC15107
+In facility REVOLVERFACILITY25100 :
+
+LIBOR Interest Payment 
+ Borrower_ABC_35105 will pay interest on the Libor Option loan effective
+09-Dec-2014, scheduled to reprice on 16-Dec-2014,
+totaling USD 46.67.  
+
+Accrual Line Item(s) are as follows:
+
+Libor Option Interest Payment
+
+Rate Basis:  Actual/360
+
+      Start         End Days CCY    Balance      Rate Amount
+___________ ___________ ____ ___ __________ _________ ______
+
+16-Dec-2014 23-Dec-2014    8 USD 100,000.00 2.100000%  46.67
+
+
+
+
+
+
+
+
+LIBOR Principal Payment
+ Borrower_ABC_35105 will pay principal on the Libor Option loan effective
+09-Dec-2014, scheduled to reprice on 16-Dec-2014,
+totaling USD 5,000.00.  
+
+
+
+
+ Description: Libor Option Borrowing 
+
+Effective:  Borrower_ABC_35105 has elected to borrow under the
+Libor Option  USD 10,000.00.
+
+Please see details below.
+
+      The base rate is:           0.100000%
+      The all-in rate is:         2.100000%
+
+Maturity Date: 16-Mar-2018
+ 
+
+ 
+
+
+
+Deal ISIN: 000402625-01
+Deal CUSIP: 037833100
+
+Facility ISIN / CUSIP are as follows: 
+
+Facility Name                           ISIN                 CUSIP               
+--------------------------------------------------------------------------------
+REVOLVERFACILITY25100                   000402625-01         037833100           
+
+
+
+
+
+
+
+
+
+We will remit your funds USD 4,953.33 on the effective date.
+
+
+For: Borrower_ABC_35105
+
+Reference: BDSBLC15107, 
+
+
+
+
+
+|<comment>|

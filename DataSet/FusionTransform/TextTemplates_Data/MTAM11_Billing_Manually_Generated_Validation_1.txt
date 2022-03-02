@@ -1,0 +1,52 @@
+                            [BANKNAME]
+                                 [LOCATION]
+
+
+Date: [GENDATE]
+  TO: [CUST]
+ATTN: [ATTEN]
+ Fax: 
+  Re: Free Form..Payoff for [PAYOFFFORCUST]
+
+
+Comments: Please remit ASAP..[CUST]                          Principal Due              [PRINCDUE]  
+[ADDRS1]                              Interest Due                 [INTRSTDUE]  
+[ADDRS2]                                 Fees Due                   [AMOUNT]  
+[ADDRS3]   [ADDRS4]                           
+[ADDRS5]                                  Total Due:                 [TOTALDUE]   [CCY]
+                                        
+                                            Due Date: [DUEDATE]
+Contact:  [ATTEN]
+Phone:  [PHONENO]
+
+Re:  [Deal_Name]
+
+Prepared: [DUEDATE]
+
+Please be advised that the following payments will be due on [DUEDATE]
+
+
+
+
+
+________________________________________________________________________________
+
+
+Facility Name:             [ACTION_FACILITY]
+Fee Type:                  [FEETYPE]
+Rate Basis:                [RATEBASIS]
+
+        Start         End Days            Balance       Rate             Amount
+_____________ ___________ ____ __________________ __________ __________________
+
+  [STARTDATE]  [ENDDATE]   [DIFF]         [BALANCE]  [RATE]             [AMOUNT1]
+
+
+
+
+
+Manual Adjustment Amount:                                            [MANUALADJAMOUNT] 
+Total Fees:                                                          [AMOUNT] 
+Total Due:                                                           [AMOUNT] 
+
+ Current Per Diem:                                                      [PERDIEM]

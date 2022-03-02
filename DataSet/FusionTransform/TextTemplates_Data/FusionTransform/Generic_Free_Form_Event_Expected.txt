@@ -1,0 +1,18 @@
+                  Description:  Fee Payment
+
+
+
+Effective 29-Oct-2021, Borrower_ABC_35105 will make a(n) 
+Fee Payment totaling USD 550.00  
+
+
+
+
+
+Deal ISIN: 000402625-01
+Deal CUSIP: 037833100
+Facility ISIN: 000402625-01
+Facility CUSIP: 037833100
+
+
+|<comment>|

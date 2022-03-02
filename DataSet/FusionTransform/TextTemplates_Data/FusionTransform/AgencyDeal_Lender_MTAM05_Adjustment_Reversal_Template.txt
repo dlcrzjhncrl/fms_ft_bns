@@ -1,0 +1,30 @@
+           Description: <PRICING_OPTION> Interest Payment Reversal  
+ The all-in rate is: <ALLINRATE> 
+
+
+Effective <CURRENT_BUSINESS_DATE>  the interest payment from <FIRST_BORROWER> under the Libor Option will be reversed for the amount <CURRENCY> <INTEREST_PAYMENT_AMOUNT>.
+
+Please see details below.
+This loan was effective <LOAN_EFFECTIVEDATE> and is scheduled
+to reprice on <LOAN_REPRICINGDATE>.
+
+
+
+
+Your share of the  <PRICING_OPTION> Interest Payment Reversal is: <CURRENCY> <LENDER_SHARE>.
+
+
+
+ Please remit your funds <CURRENCY> <LENDER_SHARE> to arrive on the effective date.
+
+For: <BORROWER>
+Correspondent Bank: <CORRESPONDENT_BANK>
+Account: <ACCOUNT>
+
+Reference: <DEAL_NAME>, 
+
+
+
+
+
+|<comment>|

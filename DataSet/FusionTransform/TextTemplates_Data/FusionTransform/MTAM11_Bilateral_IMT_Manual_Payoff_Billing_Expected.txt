@@ -1,0 +1,56 @@
+Borrower_ABC_35105                      Fees Due                     162.08  
+11 Madison Avenue                       
+New York  NY 10010                      Total Due:                   162.08   USD
+United States                           
+                                        	   Due Date: 21-Apr-2015
+															
+Contact:  JEFF BEZOS
+Phone:  +13103636000
+Fax #: 212-465-3967
+
+Re:  BDSBLC15107
+
+Prepared: 02-Feb-2015
+
+Please be advised that the following payments will be due on 21-Apr-2015
+
+
+
+
+
+________________________________________________________________________________
+
+
+Facility Name:             FACAMCH1108092021222028JUA
+Fee Type:                  Available/Unutilized
+Rate Basis:                Actual/360
+
+        Start           End Days            Balance       Rate             Amount
+_____________ _____________ ____ __________________ __________ __________________
+
+  21-Jan-2015   27-Jan-2015    7         800,000.00  0.150000%              23.33
+  28-Jan-2015   28-Jan-2015    1         500,000.00  0.150000%               2.08
+  29-Jan-2015   20-Apr-2015   82         400,000.00  0.150000%             136.67
+
+
+
+
+
+Total Fees:                                                            162.08 
+Total Due:                                                             162.08 
+
+ Current Per Diem:                                                       1.67
+
+
+
+
+
+
+________________________________________________________________________________
+
+
+Please remit your funds   to arrive on the effective date. 
+ Correspondent Bank: CITIBANK N.A. (Swift ID: CITIUS33ARR)  
+Account: IQFS New York
+
+For billing inquiries contact:  Steven Bailey

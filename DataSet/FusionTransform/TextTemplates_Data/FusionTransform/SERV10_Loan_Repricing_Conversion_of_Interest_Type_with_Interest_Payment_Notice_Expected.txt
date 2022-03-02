@@ -1,0 +1,83 @@
+                ***** Rate Setting *****
+Description: USD Loan Repricing for the Deal BILATERALDEAL29138.
+
+Effective: 17-Jun-2014 
+
+Borrower BilateralBorrower30106 in Facility TERMFACILITY51158 has the following loans repricing: 
+
+                                                           Current      
+                                                           Reprice      
+Description                                 Global Amount  Date         
+----------------------------------------------------------------------------------------
+ Libor Option Loan                              232,843.14    17-Jun-2014  
+
+
+
+
+Borrower BilateralBorrower30106 in Facility TERMFACILITY51158 will make the following interest payments: 
+
+Description                                 Global Amount
+--------------------------------------------------------------------------------
+ Libor Option                                       106.94 
+
+
+
+
+
+Borrower BilateralBorrower30106 in Facility TERMFACILITY51158 will have the following new loans: 
+
+                                                                      
+Pricing                                                               
+Option                                    Global Amount               
+----------------------------------------------------------------------------------------
+ Fixed Rate Option                             232,843.14               
+
+
+
+
+ 
+
+
+Borrower BilateralBorrower30106 in Facility TERMFACILITY51158 rates have been set as follows:
+
+
+                                                                    Next         
+Pricing                                     Global                  Reprice      
+Option                                      Amount   All In Rate    Date         
+----------------------------------------------------------------------------------------
+ Fixed Rate Option                        232,843.14      2.150000%                 
+	 Fixed Rate Option: 2.150000%
+	 Spread: 0.000000%
+	      Projected Interest: 417.18     
+	 Projected  Interest Due Date: 17-Jul-2014
+
+
+
+
+
+
+
+
+
+
+We will charge your account for an amount of USD 106.94 on the effective date.
+
+For: BilateralBorrower30106
+Demand Deposit Account
+
+
+Account No:  
+DDA1
+Name:  
+Mark Zuckerberg Test1
+Routing Number:
+
+
+Reference: BILATERALDEAL29138, 
+
+
+
+
+
+
+|<comment>|

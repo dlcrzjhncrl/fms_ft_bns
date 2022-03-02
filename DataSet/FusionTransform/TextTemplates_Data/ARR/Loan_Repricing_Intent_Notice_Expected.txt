@@ -1,0 +1,94 @@
+Description: USD Loan Repricing for the Deal ARR_LIBORSC307062021112257SBA.
+
+Effective: 4-Feb-2014 
+
+Borrower US Borrower in Facility ARR_TERM07062021115118 has the following loans repricing: 
+
+                                                           Current      
+                                                           Reprice      
+Description                                 Global Amount  Date         
+----------------------------------------------------------------------------------------
+ Libor Option Loan                              545,000.00    4-Feb-2014  
+
+
+
+
+Borrower US Borrower in Facility ARR_TERM07062021115118 will make the following interest payments: 
+
+Description                                 Global Amount
+--------------------------------------------------------------------------------
+ Libor Option                                       201.35 
+ Libor Option                                       172.58 
+
+
+
+Accrual Line Item(s) are as follows:
+
+Rate Basis:  Actual/360
+
+      Start         End Days CCY    Balance      Rate Amount
+___________ ___________ ____ ___ __________ _________ ______
+
+28-Jan-2014 3-Feb-2014    7 USD 545,000.00 1.900000% 201.35
+
+Accrual Line Item(s) are as follows:
+
+Rate Basis:  Actual/360
+
+      Start         End Days CCY    Balance      Rate Amount
+___________ ___________ ____ ___ __________ _________ ______
+
+4-Feb-2014 9-Feb-2014    6 USD 545,000.00 1.900000% 172.58
+
+
+
+
+Borrower US Borrower in Facility ARR_TERM07062021115118 will have the following new loans: 
+
+                                                         Next         
+Pricing                                                  Reprice      
+Option                                    Global Amount  Date         
+----------------------------------------------------------------------------------------
+ SOFR Simple Average NOT Overridable           545,000.00   11-Feb-2014  
+          Continuation Date: 6-Feb-2014
+
+
+ 
+
+
+
+Borrower US Borrower in Facility ARR_TERM07062021115118 floating rate detail is as follows: 
+
+Pricing Option                            Global Amount    All In Rate
+----------------------------------------------------------------------------------------
+ SOFR Simple Average NOT Overridable           545,000.00       7.083000%
+
+	 SOFR Simple Average NOT Overridable: 2.833000%
+	 Spread: 2.500000%
+	 Rate Type: Simple Average
+	 Look Back days : 5
+	 Lock Out days : 0
+	 SOFR Simple Average NOT Overridable on Effective Start Date : 2.833000%
+	 Spread Adjustment : 1.750000%
+	 Observation period shift applies : No
+
+
+
+
+
+
+
+ Please remit your funds USD 373.93 to arrive on the effective date.
+
+For: US Borrower
+Correspondent Bank: CITIBANK N.A. (Swift ID: CITIUS33ARR)  
+Account: IQFS New York
+
+Reference: ARR_LIBORSC307062021112257SBA, 
+
+
+
+
+
+
+|<comment>|

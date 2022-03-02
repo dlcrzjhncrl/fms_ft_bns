@@ -1,0 +1,24 @@
+Description: Libor Option Loan Increase
+
+
+Effective: 26-Feb-2015 Borrower_ABC_35105 has elected to borrow under the
+Libor Option a total of USD 25,000.00. 
+
+Please see details below.
+
+Deal ISIN: 000402625-01
+Deal CUSIP: 037833100
+Facility ISIN: 000402625-01
+Facility CUSIP: 037833100
+
+
+
+We will remit your funds USD 25,000.00 on the effective date.
+
+
+For: Borrower_ABC_35105
+
+Reference: BDSBLC15107, Libor Option Increase
+
+
+|<comment>|

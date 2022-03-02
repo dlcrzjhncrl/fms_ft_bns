@@ -1,0 +1,42 @@
+           Description: Libor Option Interest Payment Payment  
+ The all-in rate is: <AllInRate> 
+
+
+Effective 06-Feb-2015 BORROWER ST_47112 will pay interest under the Libor Option totaling USD 1,180.56.
+
+Please see details below.
+Deal ISIN: 000402625-01
+Deal CUSIP: 037833100
+Facility ISIN: 000402625-01
+Facility CUSIP: 037833100
+This loan was effective 02-Feb-2015 and is scheduled
+to reprice on 02-Apr-2015.
+
+
+
+
+Your share of the  Libor Option Interest Payment Payment is: USD .
+
+
+
+We will remit your funds USD  on the effective date.
+
+For: LENDER B ST_33126
+
+Reference: ST SCENARIO04141, 
+
+
+
+Accrual Line Item(s) are as follows:
+
+Rate Basis:  Actual/360
+
+      Start         End Days CCY   Balance      Rate Amount
+___________ ___________ ____ ___ _________ _________ ______
+
+02-Feb-2015      USD  1.62500%   
+
+
+
+
+|<comment>|

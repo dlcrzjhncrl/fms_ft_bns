@@ -1,0 +1,89 @@
+
+On <Paperclip_EffectiveDate> the following transaction(s) totaling:
+ <Loan_Currency> <Paperclip_TotalAmount> 
+
+ will be made.
+
+ Details:
+In Deal: <Deal_Name>
+In facility <Facility_Name> :
+
+<Loan_PricingCode> Interest Payment 
+ <Borrower_NoticeName> will pay interest on the <Loan_PricingOption> loan, totaling
+<Loan_Currency> <Paperclip_InterestAmount>.  
+
+Accrual Line Item(s) are as follows:
+
+<Loan_PricingOption> Interest Payment
+
+Rate Basis:  <Loan_RateBasis>
+
+      Start         End Days CCY      Balance      Rate   Amount
+___________ ___________ ____ ___ ____________ _________ ________
+
+<BILL_DATESTART>_1 <BILL_DATEEND>_1    <BILL_DAYS>_1 <Loan_Currency> <BILL_LOANBALANCE>_1 <BILL_RATE>_1   <BILL_AMOUNT>_1
+<BILL_DATESTART>_2 <BILL_DATEEND>_2    <BILL_DAYS>_2 <Loan_Currency> <BILL_LOANBALANCE>_2 <BILL_RATE>_2   <BILL_AMOUNT>_2
+<BILL_DATESTART>_3 <BILL_DATEEND>_3    <BILL_DAYS>_3 <Loan_Currency> <BILL_LOANBALANCE>_3 <BILL_RATE>_3   <BILL_AMOUNT>_3
+<BILL_DATESTART>_4 <BILL_DATEEND>_4    <BILL_DAYS>_4 <Loan_Currency> <BILL_LOANBALANCE>_4 <BILL_RATE>_4   <BILL_AMOUNT>_4
+<BILL_DATESTART>_5 <BILL_DATEEND>_5    <BILL_DAYS>_5 <Loan_Currency> <BILL_LOANBALANCE>_5 <BILL_RATE>_5   <BILL_AMOUNT>_5
+
+
+
+
+
+
+<Loan_PricingCode> Principal Payment
+ <Borrower_NoticeName> will pay principal on the <Loan_PricingOption> loan effective
+<Loan_EffectiveDate>, totaling <Loan_Currency> <Paperclip_PrincipalAmount>.
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ Please remit your funds <Loan_Currency> <Paperclip_TotalAmount> to arrive on the effective date.
+
+
+For: <Borrower_NoticeName>
+Correspondent Bank: CITIBANK N.A. (Swift ID: CITIUS33ARR)  
+Account: IQFS New York
+
+Reference: <Deal_Name>, 
+
+
+
+Rate Type: <Loan_ARRRateType>
+Look Back days : <Loan_ARRLookbackDays>
+Lock Out days : <Loan_ARRLockoutDays>
+Spread Adjustment : <Loan_SpreadAdjustment>
+Observation period shift applies : <Loan_ARRObservationPeriod>
+Base Rate Floor :<Loan_BaseRateFloor>
+Legacy Base Rate Floor :<Loan_LegacyBaseRateFloor>
+CCR Rounding :<Loan_CCRRounding>
+Payment Lag :<Loan_PaymentLagDays>
+
+
+
+       Date   Days Rate Applied Calculated Rate   All-In Rate    Spread Spread Adjustment Cumulative Interest
+___________ ______ ____________ _______________ _____________ _________ _________________ ___________________
+
+<DATE>_1      <BILL_DAY>_1    <BILL_RATEAPPLIED>_1   <BILL_CALCULATEDRATE>_1 <BILL_ALLINRATE>_1 <BILL_SPREAD>_1         <BILL_SPREADADJUSTMENT>_1              <BILL_CUMULATIVEINT>_1
+<DATE>_2      <BILL_DAY>_2    <BILL_RATEAPPLIED>_2   <BILL_CALCULATEDRATE>_2 <BILL_ALLINRATE>_2 <BILL_SPREAD>_2         <BILL_SPREADADJUSTMENT>_2              <BILL_CUMULATIVEINT>_2
+<DATE>_3      <BILL_DAY>_3    <BILL_RATEAPPLIED>_3   <BILL_CALCULATEDRATE>_3 <BILL_ALLINRATE>_3 <BILL_SPREAD>_3         <BILL_SPREADADJUSTMENT>_3              <BILL_CUMULATIVEINT>_3
+<DATE>_4      <BILL_DAY>_4    <BILL_RATEAPPLIED>_4   <BILL_CALCULATEDRATE>_4 <BILL_ALLINRATE>_4 <BILL_SPREAD>_4         <BILL_SPREADADJUSTMENT>_4              <BILL_CUMULATIVEINT>_4
+<DATE>_5      <BILL_DAY>_5    <BILL_RATEAPPLIED>_5   <BILL_CALCULATEDRATE>_5 <BILL_ALLINRATE>_5 <BILL_SPREAD>_5         <BILL_SPREADADJUSTMENT>_5              <BILL_CUMULATIVEINT>_5
+
+
+
+|<comment>|

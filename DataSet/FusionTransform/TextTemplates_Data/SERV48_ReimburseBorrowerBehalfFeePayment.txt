@@ -1,0 +1,50 @@
+                            The Bank of Nova Scotia
+                                 North America
+
+
+Date: [GENDATE]
+  TO: [CUST]
+ATTN: [ATTEN]
+ Fax: --
+  Re: [EVENT_NAME] Fee Payment for [Deal_Name]
+[Facility_Name]
+
+
+                  Description: [EVENT_NAME] Fee Payment
+
+
+
+Effective [EFFECTIVE_DATE], [CUST] will make a(n) [EVENT_NAME]
+Fee Payment totaling CAD [PRINCIPALPAYMENT_REQUESTEDAMOUNT]  ([EURVAL]) 
+
+
+
+
+
+
+
+
+We will charge your account for an amount of CAD [PRINCIPALPAYMENT_REQUESTEDAMOUNT] on the effective date.
+
+
+For: [CUST]
+Demand Deposit Account
+
+Account No:  
+[ACTNO]
+Name:  
+[ACTNAME]
+Routing Number:  
+
+Reference: [Deal_Name], Reimbursement For [EVENT_NAME] Expense Fee 
+Payment Transaction
+
+
+
+Thanks and regards,  
+
+[USER]
+Telephone #: 
+Fax #: 
+
+

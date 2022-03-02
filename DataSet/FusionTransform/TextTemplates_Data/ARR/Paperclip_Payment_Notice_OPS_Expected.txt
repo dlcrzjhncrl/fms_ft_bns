@@ -1,0 +1,93 @@
+
+On 15-Jan-2015 the following transaction(s) totaling:
+ USD 1,303.41 
+
+ will be made.
+
+ Details:
+In Deal: ARR_SC220042021195116DXL
+In facility ARR_TERM20042021200201 :
+
+SOFRC Interest Payment 
+ US Borrower will pay interest on the SOFR Daily Rate Compounding W OPS loan, totaling
+USD 803.41.  
+
+Accrual Line Item(s) are as follows:
+
+SOFR Daily Rate Compounding W OPS Interest Payment
+
+Rate Basis:  Actual/360
+
+      Start         End Days CCY      Balance      Rate Amount
+___________ ___________ ____ ___ ____________ _________ ______
+
+23-Jul-2013 23-Jul-2013    1 USD 1,000,000.00 4.135000% 114.86
+24-Jul-2013 24-Jul-2013    1 USD 1,000,000.00 4.133126% 114.81
+25-Jul-2013 25-Jul-2013    1 USD 1,000,000.00 4.130253% 114.73
+26-Jul-2013 28-Jul-2013    3 USD 1,000,000.00 4.130505% 344.21
+29-Jul-2013 29-Jul-2013    1 USD 1,000,000.00 4.132884% 114.80
+
+
+
+
+
+
+
+
+SOFRC Principal Payment
+ US Borrower will pay principal on the SOFR Daily Rate Compounding W OPS loan effective
+18-Jun-2013, totaling USD 500.00.
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ Please remit your funds USD 1,303.41 to arrive on the effective date.
+
+
+For: US Borrower
+Correspondent Bank: CITIBANK N.A. (Swift ID: CITIUS33ARR)  
+Account: IQFS New York
+
+Reference: ARR_SC220042021195116DXL, 
+
+
+
+Rate Type: Daily Rate With Compounding
+Look Back days : 5
+Lock Out days : 0
+Spread Adjustment : 0.000000%
+Observation period shift applies : Yes
+Base Rate Floor : N/A
+Legacy Base Rate Floor : N/A
+CCR Rounding :N/A
+Payment Lag :N/A
+
+
+
+     Interest   Observation    Obs.        Rate      Compounding Compounded Rate
+  Period Date   Period Date  Period     Applied           Factor                
+                               Days                                             
+_____________ _____________ _______ ___________ ________________ _______________
+
+  23-Jul-2013   15-Jul-2013       1   2.135000%         1.000000   2.1350000000%
+  24-Jul-2013   16-Jul-2013       1   2.133000%         1.000059   2.1331264987%
+  25-Jul-2013   17-Jul-2013       2   2.130000%         0.999224   2.1283471715%
+  26-Jul-2013   19-Jul-2013       3   2.130000%         1.000348   2.1307407935%
+  29-Jul-2013   22-Jul-2013       1   2.132000%         1.000330   2.1327043214%
+
+
+
+|<comment>|

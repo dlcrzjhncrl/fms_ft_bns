@@ -1,0 +1,62 @@
+           Description: SOFR Daily Rate Compounding W OPS Interest Payment  
+ The all-in rate is: 5.095559% 
+
+
+Effective 30-Dec-2014 US Borrower will pay interest under the SOFR Daily Rate Compounding W OPS totaling USD 4,811.18.
+
+Rate Type: Daily Rate With Compounding
+Look Back days : 5
+Lock Out days : 0
+Spread Adjustment : 0.000000%
+Observation period shift applies : Yes
+
+
+
+
+
+
+
+
+ Please remit your funds USD 4,811.18 to arrive on the effective date.
+
+
+For: US Borrower
+Correspondent Bank: CITIBANK N.A. (Swift ID: CITIUS33ARR)  
+Account: IQFS New York
+
+Reference: ARR_SC124072021011329UEI, 
+
+
+
+Accrual Line Item(s) are as follows:
+
+Rate Basis:  Actual/360
+
+      Start         End Days CCY      Balance      Rate   Amount
+___________ ___________ ____ ___ ____________ _________ ________
+
+29-Aug-2014 31-Aug-2014    3 USD 5,000,000.00 4.956000% 2,065.00
+1-Sep-2014 1-Sep-2014    1 USD 5,000,000.00 4.911493%   682.15
+2-Sep-2014 4-Sep-2014    3 USD 5,000,000.00 4.953666% 2,064.03
+
+
+
+
+
+     Interest   Observation    Obs.        Rate      Compounding Compounded Rate
+  Period Date   Period Date  Period     Applied           Factor                
+                               Days                                             
+_____________ _____________ _______ ___________ ________________ _______________
+
+  29-Aug-2014   22-Aug-2014       3   2.456000%         1.000000   2.4560000000%
+  1-Sep-2014   25-Aug-2014       1   2.411000%         1.000205   2.4114934513%
+  2-Sep-2014   26-Aug-2014       1   2.453000%         1.000272   2.4536663638%
+  3-Sep-2014   27-Aug-2014       1   2.467000%         1.000340   2.4678383113%
+  4-Sep-2014   28-Aug-2014       1   2.543000%         1.000408   2.5440384622%
+
+Base Rate Floor : N/A
+Legacy Base Rate Floor : N/A
+CCR Rounding :N/A
+Payment Lag :N/A
+
+|<comment>|

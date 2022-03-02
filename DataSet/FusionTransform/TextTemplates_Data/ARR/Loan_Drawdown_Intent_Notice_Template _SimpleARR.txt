@@ -1,0 +1,51 @@
+Description: <Loan_PricingOption> Borrowing  
+
+
+Effective: <Loan_EffectiveDate> <Borrower_NoticeName> has elected to borrow under the
+<Loan_PricingOption>  <Loan_Currency> <Loan_RequestedAmount>. 
+
+Please see details below.
+
+Rate Type: <Loan_ARRRateType>
+Look Back days : <Loan_ARRLookbackDays>
+Lock Out days : <Loan_ARRLockoutDays>
+<Loan_PricingOption> on Effective Start Date : <Loan_BaseRate>
+Spread Adjustment : <Loan_SpreadAdjustment>
+
+Base Rate Floor :<Loan_BaseRateFloor>
+
+Legacy Base Rate Floor :<Loan_LegacyBaseRateFloor>
+
+CCR Rounding :<Loan_CCRRounding>
+
+Payment Lag :<Loan_PaymentLagDays>
+
+
+
+
+
+
+
+<Loan_PricingOption>: <Loan_BaseRate>
+The spread is: <Loan_SpreadRate>
+The all-in rate on Effective Start date is: <Loan_AllInRate>
+
+Maturity Date: <Loan_MaturityDate>
+
+
+
+
+
+
+
+We will remit your funds <Loan_Currency> <Loan_RequestedAmount> on the effective date.
+
+
+For: <Borrower_NoticeName>
+
+Reference: <Deal_Name>, <Loan_PricingOption> Borrowing
+
+
+
+
+|<comment>|

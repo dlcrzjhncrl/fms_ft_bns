@@ -1,0 +1,60 @@
+                            <BANK_NAME>
+                                 <ZONE_NAME>
+
+
+Date: <BILL_DATE>
+  TO: <BILL_CUSTOMER>
+ATTN: <BILL_CONTACTS>
+ Fax: 
+  Re: Demand Bill for <BILL_CUSTOMER>
+
+
+<BILL_CUSTOMER>                         Interest Due               <BILL_TOTALDUE>  
+                                        
+                                        Total Due:                 <BILL_TOTALDUE>   <BILL_CURRENCY>
+                                        
+                                            Due Date: <BILL_DUEDATE>
+
+Re:  <BILL_DEAL>
+
+Prepared: <BILL_SYSTEMDATE>
+
+Please be advised that the following payments will be due on <BILL_DUEDATE>
+
+
+
+
+
+________________________________________________________________________________
+
+Loan Details for -  <BILL_LOAN>
+Facility Name:             <BILL_FACILITY>
+Pricing Option:            <BILL_PRICINGOPTION>(<BILL_LOAN>)
+Rate Basis:                <BILL_ARRRATEBASIS>
+ARR Calculation Method:    <BILL_ARRCALCULATIONMETHOD>
+Look Back:                 <BILL_ARRLOOKBACK>
+Lock Out:                  <BILL_ARRLOCKOUT>
+
+        Start           End Days            Balance       Rate             Amount
+_____________ _____________ ____ __________________ __________ __________________
+
+   <BILL_DATESTART>    <BILL_DATEEND>    <BILL_DAYS>       <BILL_LOANBALANCE>  <BILL_RATE>           <BILL_AMOUNT>
+   <BILL_DATESTART2>   <BILL_DATEEND2>    <BILL_DAYS2>       <BILL_LOANBALANCE2>  <BILL_RATE2>           <BILL_AMOUNT2>
+
+
+       Date   Days Rate Applied Calculated Rate   All-In Rate    Spread Spread Adjustment Cumulative Interest
+___________ ______ ____________ _______________ _____________ _________ _________________ ___________________
+
+<BILL_DATE1>      <BILL_DAY1>    <BILL_RATEAPPLIED1>   <BILL_CALCULATEDRATE1> <BILL_ALLINRATE> <BILL_SPREAD>         <BILL_SPREADADJUSTMENT>              <BILL_CUMULATIVEINT1>
+<BILL_DATE2>      <BILL_DAY2>    <BILL_RATEAPPLIED2>   <BILL_CALCULATEDRATE2> <BILL_ALLINRATE> <BILL_SPREAD>         <BILL_SPREADADJUSTMENT>            <BILL_CUMULATIVEINT2>
+<BILL_DATE3>      <BILL_DAY3>    <BILL_RATEAPPLIED3>   <BILL_CALCULATEDRATE3> <BILL_ALLINRATE> <BILL_SPREAD>         <BILL_SPREADADJUSTMENT>            <BILL_CUMULATIVEINT3>
+<BILL_DATE4>      <BILL_DAY4>    <BILL_RATEAPPLIED4>   <BILL_CALCULATEDRATE4> <BILL_ALLINRATE> <BILL_SPREAD>         <BILL_SPREADADJUSTMENT>            <BILL_CUMULATIVEINT4>
+<BILL_DATE5>      <BILL_DAY5>    <BILL_RATEAPPLIED5>   <BILL_CALCULATEDRATE5> <BILL_ALLINRATE> <BILL_SPREAD>         <BILL_SPREADADJUSTMENT>            <BILL_CUMULATIVEINT5>
+
+
+
+
+Interest Due                                                         <BILL_CUMULATIVEINT5>
+Balance Forward:                                                     <BILL_BALANCE>
+Total Due:                                                           <BILL_TOTALDUE>
+

@@ -1,0 +1,34 @@
+
+Description: Amortization Schedule
+
+
+Please find below the most recent amortization schedule for the above:
+
+
+Limit  Item#  Type        Amend    Princip          Date Remaining  Billed Office      Comment                        
+                                        al                  Amount  Amount                                            
+------ ------ ----------- -------- ------- ------------- --------- ------- ----------- -------------------------------
+
+       <ITEM_NUM>_1      <TYPE>_1   <AMEND>_1         <AMOUNT>_1    <DATE>_1      <REMAINING_AMOUNT>_1    <BILLED_AMOUNT>_1                                                
+                                         <AMOUNT_1>_1                       <REMAINING_AMOUNT_1>_1       <BILLED_AMOUNT_1>_1                                             
+       <ITEM_NUM>_2      <TYPE>_2   <AMEND>_2         <AMOUNT>_2    <DATE>_2      <REMAINING_AMOUNT>_2    <BILLED_AMOUNT>_2                                                
+                                         <AMOUNT_1>_2                       <REMAINING_AMOUNT_1>_2       <BILLED_AMOUNT_1>_2                                             
+       <ITEM_NUM>_3      <TYPE>_3   <AMEND>_3         <AMOUNT>_3    <DATE>_3      <REMAINING_AMOUNT>_3    <BILLED_AMOUNT>_3                                                
+                                         <AMOUNT_1>_3                       <REMAINING_AMOUNT_1>_3       <BILLED_AMOUNT_1>_3                                             
+       <ITEM_NUM>_4      <TYPE>_4   <AMEND>_4         <AMOUNT>_4    <DATE>_4      <REMAINING_AMOUNT>_4    <BILLED_AMOUNT>_4                                                
+                                         <AMOUNT_1>_4                       <REMAINING_AMOUNT_1>_4       <BILLED_AMOUNT_1>_4                                             
+       <ITEM_NUM>_5      <TYPE>_5   <AMEND>_5         <AMOUNT>_5    <DATE>_5      <REMAINING_AMOUNT>_5    <BILLED_AMOUNT>_5                                                
+                                         <AMOUNT_1>_5                       <REMAINING_AMOUNT_1>_5       <BILLED_AMOUNT_1>_5                                             
+       <ITEM_NUM>_6      <TYPE>_6   <AMEND>_6         <AMOUNT>_6    <DATE>_6      <REMAINING_AMOUNT>_6    <BILLED_AMOUNT>_6                                                
+                                         <AMOUNT_1>_6                       <REMAINING_AMOUNT_1>_6       <BILLED_AMOUNT_1>_6                                             
+       <ITEM_NUM>_7      <TYPE>_7   <AMEND>_7         <AMOUNT>_7    <DATE>_7      <REMAINING_AMOUNT>_7    <BILLED_AMOUNT>_7                                                
+                                         <AMOUNT_1>_7                       <REMAINING_AMOUNT_1>_7       <BILLED_AMOUNT_1>_7                                             
+       <ITEM_NUM>_8      <TYPE>_8   <AMEND>_8         <AMOUNT>_8    <DATE>_8      <REMAINING_AMOUNT>_8    <BILLED_AMOUNT>_8                                                
+                                         <AMOUNT_1>_8                       <REMAINING_AMOUNT_1>_8       <BILLED_AMOUNT_1>_8                                             
+
+
+<STATUS>
+
+Current Commitment Amount: <Current_Commitment_Amount>
+Deal CUSIP: <Deal_ISIN><Deal_CUSIP>
+Facility CUSIP:  <Facility_ISIN><Facility_CUSIP>

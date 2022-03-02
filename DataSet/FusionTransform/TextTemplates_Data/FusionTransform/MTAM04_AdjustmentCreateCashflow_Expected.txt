@@ -1,0 +1,28 @@
+                  Description: Generic Free Form Event Fee Payment
+
+
+
+Effective 26-Feb-2015, Borrower_ABC_35105 will make a(n) Generic Free Form Event
+Fee Payment totaling USD 5,000.00  
+
+
+
+
+
+Deal ISIN: 000402625-01
+Deal CUSIP: 037833100
+Facility ISIN: 000402625-01
+Facility CUSIP: 037833100
+
+
+
+Please remit your funds USD 5,000.00 to arrive on the effective date.
+
+
+For: Borrower_ABC_35105
+Special Accounts Payable
+
+Reference: BILATERAL SBLC 1, Generic Free Form Event Fee
+
+
+|<comment>|

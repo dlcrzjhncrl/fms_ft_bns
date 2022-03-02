@@ -1,0 +1,40 @@
+                          ***** Rate Setting *****
+
+		
+Description: Libor Option Borrowing 
+
+Effective: 06-Feb-2015 BORROWER ICP_33143 has elected to borrow under the
+Libor Option a total of USD 300,000.00. 
+
+Please see details below.
+
+Deal ISIN: 000402625-01
+Deal CUSIP: 037833100
+Facility ISIN: 000402625-01
+Facility CUSIP: 037833100
+Term: 06-Feb-2015 - 13-Feb-2015
+Maturity Date: 08-Feb-2016
+Libor Option: 2.000000%
+The all-in rate is: 4.100000%
+The PIK rate is: 2.000000%
+
+
+The projected interest due on 13-Feb-2015 is USD 239.17.
+
+
+
+
+
+
+We will remit your funds USD 300,000.00 on the effective date.
+
+
+For: BORROWER ICP_33143
+
+Reference: AGENCY_PIK_&_INTEREST_CAP52130, Libor Option Borrowing
+
+
+
+
+
+|<comment>|

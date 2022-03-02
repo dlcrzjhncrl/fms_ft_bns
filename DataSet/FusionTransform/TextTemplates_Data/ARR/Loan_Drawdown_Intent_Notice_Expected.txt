@@ -1,0 +1,51 @@
+Description: SOFR Simple ARR Borrowing  
+
+
+Effective: 11-Dec-2014 US Borrower has elected to borrow under the
+SOFR Simple ARR  USD 5,000,000.00. 
+
+Please see details below.
+
+Rate Type: Simple ARR
+Look Back days : 3
+Lock Out days : 0
+SOFR Simple ARR on Effective Start Date : 2.596000%
+Spread Adjustment : 0.000000%
+
+Base Rate Floor : N/A
+
+Legacy Base Rate Floor : N/A
+
+CCR Rounding :N/A
+
+Payment Lag :0
+
+
+
+
+
+
+
+SOFR Simple ARR: 2.596000%
+The spread is: 2.500000%
+The all-in rate on Effective Start date is: 5.096000%
+
+Maturity Date: 11-Mar-2015
+
+
+
+
+
+
+
+We will remit your funds USD 5,000,000.00 on the effective date.
+
+
+For: US Borrower
+
+Reference: ARR_SC122072021220941YBD, SOFR Simple ARR Borrowing
+
+
+
+
+|<comment>|

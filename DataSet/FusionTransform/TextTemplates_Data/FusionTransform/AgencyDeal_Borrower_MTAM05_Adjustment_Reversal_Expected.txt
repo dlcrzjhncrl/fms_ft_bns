@@ -1,0 +1,28 @@
+           Description: Libor Option Interest Payment Reversal  
+ The all-in rate is: 2.100000% 
+
+
+Effective 30-Dec-2014 we will reverse the interest payment made under the Libor Option totaling USD 4.08.
+
+This loan was effective 19-Nov-2014 and is scheduled
+to reprice on 26-Nov-2014.
+
+
+
+
+
+
+
+
+We will remit your funds USD 4.08 on the effective date.
+
+
+For: MDLBNKLIQ_47129
+
+Reference: AGENCY54119, 
+
+
+
+
+
+|<comment>|

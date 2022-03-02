@@ -1,0 +1,60 @@
+                            [BANKNAME]
+                                 [LOCATION]
+
+
+Date: [GENDATE]
+  TO: [CUST]
+ATTN: [ATTEN]
+ Fax: 
+  Re: Free Form..Payoff for [PAYOFFFORCUST]
+
+
+Comments: Please remit ASAP..[CUST]                          Fees Due                   [AMOUNT]  
+[ADDRS1]                              
+[ADDRS2]                                 Total Due:                 [AMOUNT]   [CCY]
+[ADDRS3]   [ADDRS4]                           
+[ADDRS5]                                      Due Date: [DUEDATE]
+Contact:  [ATTEN]
+Phone:  [PHONENO]
+
+Re:  [Deal_Name]
+
+Prepared: [DUEDATE]
+
+Please be advised that the following payments will be due on [DUEDATE]
+
+
+
+
+
+________________________________________________________________________________
+
+
+Fee Type:                  [FEETYPE]
+
+        Start         End Days            Balance       Rate             Amount
+_____________ ___________ ____ __________________ __________ __________________
+
+  [STARTDATE] [ENDDATE]                               [RATE]           [AMOUNT]
+
+
+
+
+
+Total Fees:                                                          [AMOUNT] 
+Total Due:                                                           [AMOUNT] 
+
+
+
+
+
+
+
+________________________________________________________________________________
+
+
+Please remit your payment on the due date
+
+For billing inquiries contact:  [INQUIRYCONTACT]
+
+Thanks and regards,  

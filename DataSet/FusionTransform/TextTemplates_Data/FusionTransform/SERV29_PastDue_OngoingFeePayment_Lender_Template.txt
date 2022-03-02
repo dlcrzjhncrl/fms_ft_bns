@@ -1,0 +1,25 @@
+                  Description: Available/Unutilized <PaymentDescription> Payment                  
+
+
+Effective <EffectiveDate> <BorrowerShortName> will make payment against the Available/Unutilized Fee totaling <Currency> <Amount>.
+
+ Please see details below.
+
+Deal ISIN: <Deal_ISIN>
+Deal CUSIP: <Deal_CUSIP>
+Facility ISIN: <Facility_ISIN>
+Facility CUSIP: <Facility_CUSIP>
+
+
+Your share of the <Currency> <Amount> Available/Unutilized Fee is: <Currency> <LenderAmount>.
+
+
+
+We will remit your funds <Currency> <LenderAmount> on the effective date.
+
+For: <Lender>
+
+Reference: <Deal>, 
+
+
+|<comment>|

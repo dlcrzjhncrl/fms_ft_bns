@@ -1,0 +1,38 @@
+           Description: <PricingOption> Interest Payment  
+ The all-in rate is: <BILL_RATE>_1 
+
+
+Effective <EffectiveDate> <BorrowerShortName> will pay interest under the <PricingOption> totaling <Currency> <RequestedAmount>.
+
+Please see details below.
+This loan was effective <LoanEffectiveDate> and is scheduled
+to reprice on <Loan_RepricingDate>.
+
+
+
+
+Your share of the  <PricingOption> Interest Payment is: <Currency> <LenderAmount>.
+
+
+
+We will remit your funds <Currency> <LenderAmount> on the effective date.
+
+For: <Lender>
+
+Reference: <DealName>, 
+
+
+
+Accrual Line Item(s) are as follows:
+
+Rate Basis:  <RateBasis>
+
+      Start         End Days CCY    Balance      Rate Amount
+___________ ___________ ____ ___ __________ _________ ______
+
+<BILL_DATESTART>_1 <BILL_DATEEND>_1    <BILL_DAYS>_1 <BILL_CURRENCY>_1 <BILL_BALANCE>_1 <BILL_RATE>_1   <BILL_AMOUNT>_1
+
+
+
+
+|<comment>|

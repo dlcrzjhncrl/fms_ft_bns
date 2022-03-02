@@ -1,0 +1,57 @@
+BORROWER AGENTED SECURITY15104          Interest Due                  62.88  
+Baker Street                            
+Butterfield  CA 00010                   Total Due:                    62.88   USD
+United States                           
+                                        	   Due Date: 07-Mar-2022
+															
+Contact:  Emman Anonas
+Phone:  1234
+Fax #: 
+
+Re:  AWS SCENARIO23127
+
+Prepared: 10-Dec-2021
+
+Please be advised that the following payments will be due on 07-Mar-2022
+
+
+
+
+
+________________________________________________________________________________
+
+Loan Details for -  BORROWER A00102
+Facility Name:             AWS TERM0151158
+Pricing Option:            Libor Option(BORROWER A00102)
+                           Repricing Frequency:7 Day(s)
+                           Repricing Date:06-Dec-2021
+Rate Basis:                Actual/360
+
+        Start           End Days            Balance       Rate             Amount
+_____________ _____________ ____ __________________ __________ __________________
+
+   6-Dec-2021   31-Dec-2021  26          11,000.00  2.100000%             16.68
+   1-Jan-2022    6-Mar-2022  65          11,000.00  2.100000%             41.71
+
+
+
+
+
+Interest Due                                                            58.39 
+Balance Forward:                                                         4.49 
+Total Due:                                                              62.88 
+
+
+
+
+
+
+
+________________________________________________________________________________
+
+
+Please remit your funds   to arrive on the effective date. 
+ Correspondent Bank: CITIBANK N.A. (Swift ID: CITIUS33ARR)  
+Account: IQFS New York
+
+For billing inquiries contact:  Steven Bailey

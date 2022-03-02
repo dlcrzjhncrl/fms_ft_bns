@@ -1,0 +1,74 @@
+<BORROWER>                             Interest Due               <BILL_TOTALDUE>  
+<ADDRESS1>                            
+<ADDRESS2>                      Total Due:                 <BILL_TOTALDUE>   <BILL_CURRENCY>
+<ADDRESS3>                           
+                                        	   Due Date: <BILL_DUEDATE>
+															
+Contact:  <BILL_CUSTOMER>
+
+Re:  <BILL_DEAL>
+
+Prepared: <BILL_SYSTEMDATE>
+
+Please be advised that the following payments will be due on <BILL_DUEDATE>
+
+
+
+
+
+________________________________________________________________________________
+
+<PROVISIONAL_NOTE>
+Loan Details for -  <BILL_LOAN>
+Facility Name:             <BILL_FACILITY>
+Pricing Option:            <BILL_PRICINGOPTION>(<BILL_LOAN>)
+Rate Basis:                <BILL_ARRRATEBASIS>
+ARR Calculation Method: <BILL_ARRCALCULATIONMETHOD>
+Look Back days: <BILL_ARRLOOKBACK>
+Lock Out days: <BILL_ARRLOCKOUT>
+Base Rate Floor: <BILL_BASERATEFLOOR>
+Legacy Base Rate Floor: <BILL_LEGACYBASERATEFLOOR>
+CCR Rounding: <BILL_CCRROUNDING>
+Payment Lag: <BILL_PAYMENTLAGDAYS>
+Observation period shift applies: <BILL_OBSERVATIONPERIOD>
+
+        Start           End Days            Balance       Rate             Amount
+_____________ _____________ ____ __________________ __________ __________________
+
+  <BILL_DATESTART>_1   <BILL_DATEEND>_1    <BILL_DAYS>_1       <BILL_LOANBALANCE>_1  <BILL_RATE>_1             <BILL_AMOUNT>_1
+  <BILL_DATESTART>_2   <BILL_DATEEND>_2    <BILL_DAYS>_2       <BILL_LOANBALANCE>_2  <BILL_RATE>_2             <BILL_AMOUNT>_2
+  <BILL_DATESTART>_3   <BILL_DATEEND>_3    <BILL_DAYS>_3       <BILL_LOANBALANCE>_3  <BILL_RATE>_3             <BILL_AMOUNT>_3
+  <BILL_DATESTART>_4   <BILL_DATEEND>_4    <BILL_DAYS>_4       <BILL_LOANBALANCE>_4  <BILL_RATE>_4             <BILL_AMOUNT>_4
+  <BILL_DATESTART>_5   <BILL_DATEEND>_5    <BILL_DAYS>_5       <BILL_LOANBALANCE>_5  <BILL_RATE>_5             <BILL_AMOUNT>_5
+
+
+       Date   Days Rate Applied Calculated Rate   All-In Rate    Spread Spread Adjustment Cumulative Interest
+___________ ______ ____________ _______________ _____________ _________ _________________ ___________________
+
+<DATE>_1      <BILL_DAY>_1    <BILL_RATEAPPLIED>_1   <BILL_CALCULATEDRATE>_1 <BILL_ALLINRATE>_1 <BILL_SPREAD>_1         <BILL_SPREADADJUSTMENT>_1              <BILL_CUMULATIVEINT>_1
+<DATE>_2      <BILL_DAY>_2    <BILL_RATEAPPLIED>_2   <BILL_CALCULATEDRATE>_2 <BILL_ALLINRATE>_2 <BILL_SPREAD>_2         <BILL_SPREADADJUSTMENT>_2              <BILL_CUMULATIVEINT>_2
+<DATE>_3      <BILL_DAY>_3    <BILL_RATEAPPLIED>_3   <BILL_CALCULATEDRATE>_3 <BILL_ALLINRATE>_3 <BILL_SPREAD>_3         <BILL_SPREADADJUSTMENT>_3              <BILL_CUMULATIVEINT>_3
+<DATE>_4      <BILL_DAY>_4    <BILL_RATEAPPLIED>_4   <BILL_CALCULATEDRATE>_4 <BILL_ALLINRATE>_4 <BILL_SPREAD>_4         <BILL_SPREADADJUSTMENT>_4              <BILL_CUMULATIVEINT>_4
+<DATE>_5      <BILL_DAY>_5    <BILL_RATEAPPLIED>_5   <BILL_CALCULATEDRATE>_5 <BILL_ALLINRATE>_5 <BILL_SPREAD>_5         <BILL_SPREADADJUSTMENT>_5              <BILL_CUMULATIVEINT>_5
+
+
+
+
+<INTEREST_DUE>                                                         <BILL_CYCLEDUE> 
+<BALANCE_FORWARD>                                                     <BILL_BALANCE> 
+<FOOTER_TOTAL_DUE>                                                           <FOOTER_BILL_TOTALDUE> 
+
+
+
+
+
+
+
+________________________________________________________________________________
+
+
+Please remit your payment on the due date
+
+For billing inquiries contact:  Steven Bailey
+
+

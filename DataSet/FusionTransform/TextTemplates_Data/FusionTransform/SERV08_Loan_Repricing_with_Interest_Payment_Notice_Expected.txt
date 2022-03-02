@@ -1,0 +1,94 @@
+                ***** Rate Setting *****
+	
+	
+Description: USD Loan Repricing for the Deal DEALTERMINATION12116.
+
+Effective: 28-Jan-2015 
+
+Borrower BORROWERDEALTERMINATION05129 in Facility REVOLVERFACILITY21157 has the following loans repricing: 
+
+                                                           Current      
+                                                           Reprice      
+Description                                 Global Amount  Date         
+----------------------------------------------------------------------------------------
+ Libor Option Loan                              250,000.00    28-Jan-2015  
+
+
+
+
+Borrower BORROWERDEALTERMINATION05129 in Facility REVOLVERFACILITY21157 will make the following interest payments: 
+
+Description                                 Global Amount
+--------------------------------------------------------------------------------
+ Libor Option                                       160.42 
+
+
+
+
+
+Borrower BORROWERDEALTERMINATION05129 in Facility REVOLVERFACILITY21157 will have the following new loans: 
+
+                                                         Next         
+Pricing                                                  Reprice      
+Option                                    Global Amount  Date         
+----------------------------------------------------------------------------------------
+ Libor Option                                  250,000.00   04-Feb-2015  
+          Continuation Date: 29-Jan-2015
+
+
+
+
+ 
+
+
+Borrower BORROWERDEALTERMINATION05129 in Facility REVOLVERFACILITY21157 rates have been set as follows:
+
+
+                                                                    Next         
+Pricing                                     Global                  Reprice      
+Option                                      Amount   All In Rate    Date         
+----------------------------------------------------------------------------------------
+ Libor Option                             250,000.00      3.900000%     04-Feb-2015  
+	 Libor Option: 2.100000%
+	 Spread: 1.800000%
+	      Projected Interest: 2,437.50     
+	 Projected  Interest Due Date: 28-Apr-2015
+
+
+
+
+
+
+
+
+Deal ISIN: 000402625-01
+Deal CUSIP: 037833100
+Facility: REVOLVERFACILITY21157 
+
+Facility ISIN: 000402625-01
+Facility CUSIP: 037833100
+
+
+
+We will charge your account for an amount of USD 160.42 on the effective date.
+
+For: BORROWERDEALTERMINATION05129
+Demand Deposit Account
+
+
+Account No:  
+DDA1
+Name:  
+DDA1
+Routing Number:  
+ 
+
+
+Reference: DEALTERMINATION12116, 
+
+
+
+
+
+
+|<comment>|

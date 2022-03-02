@@ -1,0 +1,42 @@
+           Description: <PricingOption> <PaymentDescription> Payment  
+ The all-in rate is: <AllInRate> 
+
+
+Effective <EffectiveDate> <NoticeBorrower_LegalName> will pay interest under the <PricingOption> totaling <Currency> <Amount>.
+
+Please see details below.
+Deal ISIN: <Deal_ISIN>
+Deal CUSIP: <Deal_CUSIP>
+Facility ISIN: <Facility_ISIN>
+Facility CUSIP: <Facility_CUSIP>
+This loan was effective <Loan_EffectiveDate> and is scheduled
+to reprice on <RepricingDate>.
+
+
+
+
+Your share of the  <PricingOption> <PaymentDescription> Payment is: <Currency> <LenderShares_Amount>.
+
+
+
+We will remit your funds <Currency> <Amount_2> on the effective date.
+
+For: <Lender>
+
+Reference: <Deal>, 
+
+
+
+Accrual Line Item(s) are as follows:
+
+Rate Basis:  <Rate_Basis>
+
+      Start         End Days CCY   Balance      Rate Amount
+___________ ___________ ____ ___ _________ _________ ______
+
+<Loan_EffectiveDate> <Loan_AccrualEndDate>    <Loan_AccrualDays> <Currency> <Loan_AccrualBalance> <AllInRate_2>   <LenderShares_Amount>
+
+
+
+
+|<comment>|

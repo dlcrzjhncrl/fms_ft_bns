@@ -1,0 +1,35 @@
+                  Description: Available/Unutilized Ongoing Fee Payment                  
+
+
+Effective 30-Jan-2015 BORROWERDEALTERMINATION05129 will make payment against the Available/Unutilized Fee totaling USD 41.99.
+
+
+Deal ISIN: 000402625-01
+Deal CUSIP: 037833100
+Facility ISIN: 000402625-01
+Facility CUSIP: 037833100
+
+
+
+
+
+
+We will charge your account for an amount of USD 41.99 on the effective date.
+
+
+For: BORROWERDEALTERMINATION05129
+Demand Deposit Account
+
+
+Account No:  
+DDA1
+Name:  
+DDA1
+Routing Number:  
+ 
+
+
+Reference: DEALTERMINATION12116, 
+
+
+|<comment>|

@@ -1,0 +1,28 @@
+           Description: Libor Option Principal Payment
+
+
+Effective 16-Dec-2014 Borrower_ABC_35105 has elected to repay
+under the Libor Option a total of USD 1,639.34.
+
+Deal ISIN: 000402625-01
+Deal CUSIP: 037833100
+Facility ISIN: 000402625-01
+Facility CUSIP: 037833100
+This loan was effective 09-Dec-2014 and is scheduled
+to reprice on 16-Dec-2014.
+
+
+
+
+
+ Please remit your funds USD 1,639.34 to arrive on the effective date.
+
+
+For: Borrower_ABC_35105
+Correspondent Bank: CITIBANK N.A. (Swift ID: CITIUS33ARR)  
+Account: IQFS New York
+
+Reference: BDSBLC15107, 
+
+
+|<comment>|

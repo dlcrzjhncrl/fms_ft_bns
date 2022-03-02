@@ -1,0 +1,101 @@
+                ***** Rate Setting *****
+	
+	
+Description: USD Loan Repricing for the Deal BDSBLC15107.
+
+Effective: 16-Dec-2014 
+
+Borrower Borrower_ABC_35105 in Facility TERMFACILITY38101 has the following loans repricing: 
+
+                                                           Current      
+                                                           Reprice      
+Description                                 Global Amount  Date         
+----------------------------------------------------------------------------------------
+ Libor Option Loan                               98,360.66    16-Dec-2014  
+
+
+
+
+Borrower Borrower_ABC_35105 in Facility TERMFACILITY38101 will make the following interest payments: 
+
+Description                                 Global Amount
+--------------------------------------------------------------------------------
+ Libor Option                                        42.78 
+
+
+
+
+
+Borrower Borrower_ABC_35105 in Facility TERMFACILITY38101 will have the following new loans: 
+
+                                                         Next         
+Pricing                                                  Reprice      
+Option                                    Global Amount  Date         
+----------------------------------------------------------------------------------------
+ Libor Option                                   90,000.00   24-Dec-2014  
+          Continuation Date: 17-Dec-2014
+
+
+ Libor Option                                    8,360.66   24-Dec-2014  
+          Continuation Date: 17-Dec-2014
+
+
+
+
+ 
+ 
+
+
+Borrower Borrower_ABC_35105 in Facility TERMFACILITY38101 rates have been set as follows:
+
+
+                                                                    Next         
+Pricing                                     Global                  Reprice      
+Option                                      Amount   All In Rate    Date         
+----------------------------------------------------------------------------------------
+ Libor Option                              90,000.00      2.200000%     24-Dec-2014  
+	 Libor Option: 0.100000%
+	 Spread: 2.100000%
+	      Projected Interest: 44.00     
+	 Projected  Interest Due Date: 24-Dec-2014
+
+                                                                    Next         
+Pricing                                     Global                  Reprice      
+Option                                      Amount   All In Rate    Date         
+----------------------------------------------------------------------------------------
+ Libor Option                               8,360.66      2.200000%     24-Dec-2014  
+	 Libor Option: 0.100000%
+	 Spread: 2.100000%
+	      Projected Interest: 4.09     
+	 Projected  Interest Due Date: 24-Dec-2014
+
+
+
+
+
+
+
+
+Deal ISIN: 000402625-01
+Deal CUSIP: 037833100
+Facility: TERMFACILITY38101 
+
+Facility ISIN: 000402625-01
+Facility CUSIP: 037833100
+
+
+
+ Please remit your funds USD 42.78 to arrive on the effective date.
+
+For: Borrower_ABC_35105
+Correspondent Bank: CITIBANK N.A. (Swift ID: CITIUS33ARR)  
+Account: IQFS New York
+
+Reference: BDSBLC15107, 
+
+
+
+
+
+
+|<comment>|

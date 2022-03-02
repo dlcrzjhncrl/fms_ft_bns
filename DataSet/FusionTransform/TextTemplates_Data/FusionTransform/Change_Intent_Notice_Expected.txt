@@ -1,0 +1,29 @@
+A Standby Letter of Credit (SBLC) issued under the captioned agreement has been
+decreased. The details of the decrease are as follows: 
+
+
+Borrower: Borrower_ABC_35105
+
+Deal ISIN: 000402625-01
+Deal CUSIP: 037833100
+Facility ISIN: 000402625-01
+Facility CUSIP: 037833100
+
+Issuing Banks:
+
+Name:HB Americas
+Address:212 South Lasalle Street
+New York, NY 11112
+United States 
+Agent Bank Standby Letter of Credit (SBLC) NO: BORROWER_A00102
+Effective Date: 22-Oct-2021
+Decrease amount and currency: USD 100,000.00
+New Standby Letter of Credit (SBLC) balance amount and currency: USD 0.00
+
+Other:
+
+
+
+If you have any questions, please call the undersigned.
+
+|<comment>|

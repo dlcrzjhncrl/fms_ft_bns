@@ -1,0 +1,27 @@
+           Description: Libor Option Principal Payment
+
+
+Effective 06-Feb-2015 BORROWER ST_47112 has elected to prepay
+under the Libor Option a total of USD 415,666.67.
+Please see details below.
+
+Deal ISIN: 000402625-01
+Deal CUSIP: 037833100
+Facility ISIN: 000402625-01
+Facility CUSIP: 037833100
+This loan was effective 02-Feb-2015 and is scheduled
+to reprice on 02-Apr-2015.
+
+
+Your share of the USD 415,666.67 Libor Option payment is:
+USD 1,039.17.
+
+
+We will remit your funds USD 1,039.17 on the effective date.
+
+For: LENDER B ST_33126
+
+Reference: ST SCENARIO04141, 
+
+
+|<comment>|

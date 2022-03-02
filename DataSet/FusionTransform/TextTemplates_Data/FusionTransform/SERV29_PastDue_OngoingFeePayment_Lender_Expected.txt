@@ -1,0 +1,25 @@
+                  Description: Available/Unutilized Ongoing Fee Payment                  
+
+
+Effective 23-Feb-2015 BORROWER NONPRFMNG_06144 will make payment against the Available/Unutilized Fee totaling USD 5,500.00.
+
+ Please see details below.
+
+Deal ISIN: 000402625-01
+Deal CUSIP: 037833100
+Facility ISIN: 000402625-01
+Facility CUSIP: 037833100
+
+
+Your share of the USD 5,500.00 Available/Unutilized Fee is: USD 2,200.00.
+
+
+
+We will remit your funds USD 2,200.00 on the effective date.
+
+For: LENDER PAST DUE_55156
+
+Reference: APD SCENARIO21134, 
+
+
+|<comment>|

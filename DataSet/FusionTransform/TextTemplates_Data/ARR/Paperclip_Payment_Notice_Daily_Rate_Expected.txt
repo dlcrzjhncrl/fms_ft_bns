@@ -1,0 +1,89 @@
+
+On 16-Jan-2015 the following transaction(s) totaling:
+ USD 1,424.61 
+
+ will be made.
+
+ Details:
+In Deal: ARR_SC206052021163803VPJ
+In facility ARR_TERM06052021173508 :
+
+SOFRD Interest Payment 
+ US Borrower will pay interest on the SOFR Daily Rate Compounding loan, totaling
+USD 924.61.  
+
+Accrual Line Item(s) are as follows:
+
+SOFR Daily Rate Compounding Interest Payment
+
+Rate Basis:  Actual/360
+
+      Start         End Days CCY    Balance      Rate Amount
+___________ ___________ ____ ___ __________ _________ ______
+
+4-Sep-2013 4-Sep-2013    1 USD 999,500.00 4.780000% 132.71
+5-Sep-2013 5-Sep-2013    1 USD 999,500.00 4.750142% 131.88
+6-Sep-2013 8-Sep-2013    3 USD 999,500.00 4.740282% 394.83
+9-Sep-2013 9-Sep-2013    1 USD 999,500.00 4.760706% 132.18
+10-Sep-2013 10-Sep-2013    1 USD 999,500.00 4.790859% 133.01
+
+
+
+
+
+
+SOFRD Principal Payment
+ US Borrower will pay principal on the SOFR Daily Rate Compounding loan effective
+28-Aug-2013, totaling USD 500.00.
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ Please remit your funds USD 1,424.61 to arrive on the effective date.
+
+
+For: US Borrower
+Correspondent Bank: CITIBANK N.A. (Swift ID: CITIUS33ARR)  
+Account: IQFS New York
+
+Reference: ARR_SC206052021163803VPJ, 
+
+
+
+Rate Type: Daily Rate With Compounding
+Look Back days : 3
+Lock Out days : 0
+Spread Adjustment : 0.000000%
+Observation period shift applies : No
+Base Rate Floor : N/A
+Legacy Base Rate Floor : N/A
+CCR Rounding :N/A
+Payment Lag :N/A
+
+
+
+       Date   Days Rate Applied Compounding Factor Compounded Rate
+___________ ______ ____________ __________________ _______________
+
+4-Sep-2013      1    2.280000%           1.000000   2.2800000000%
+5-Sep-2013      1    2.250000%           1.000063   2.2501425000%
+6-Sep-2013      3    2.240000%           1.000126   2.2402818755%
+9-Sep-2013      1    2.260000%           1.000313   2.2607063120%
+10-Sep-2013      1    2.290000%           1.000375   2.2908594939%
+
+
+
+|<comment>|

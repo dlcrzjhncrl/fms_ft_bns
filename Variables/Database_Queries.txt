@@ -1,0 +1,22 @@
+*** Variables ***
+
+### DB Query Variables ####
+${QUERY_SELECT}    SELECT
+${QUERY_WHERE}    WHERE
+${QUERY_FROM}    FROM
+${QUERY_INNERJOIN}    INNER JOIN
+${QUERY_ON}    ON
+${QUERY_MASTER_MAPPING_TABLE}    MASTER_MAPPING
+
+#### MDM Interface DB Related properties #####
+${Check_CorelationId_Result}    SELECT CAST (PROPERTIES AS VARCHAR(4000)) FROM (select * from MCH_MESSAGES order by timestamp desc)  where rownum <= 1
+${Delete_Old_DB_Record}    DELETE FROM mch_messages
+${Check_DB_Result}    select ID from (select * from MCH_MESSAGES order by timestamp desc ) where ROWNUM <=1   
+${QUERY_FX_HOLDING}    select * from gs_fx_rate a inner join master_mapping b on a.map_id = b.map_id
+${WHERE_FILENAME}     where b.file_name
+${SELECT_Q}    SELECT
+${WHERE_Q}    WHERE
+${FROM_Q}    FROM
+${INNERJOIN_Q}    INNER JOIN
+${ON_Q}    ON
+${MASTER_MAPPING_TABLE}    MASTER_MAPPING

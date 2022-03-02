@@ -1,0 +1,68 @@
+US Borrower                             Interest Due               4,942.92  
+25 Camp Road                            
+New York  NY 10081                      Total Due:                 4,942.92   USD
+United States                           
+                                        	   Due Date: 19-Jan-2015
+															
+Contact:  Jeff Bezos
+
+Re:  ARR_SC126072021160107WAP
+
+Prepared: 13-Jan-2015
+
+Please be advised that the following payments will be due on 19-Jan-2015
+
+
+
+
+
+________________________________________________________________________________
+
+Loan Details for -  US BORROWE01003
+Facility Name:             ARR_TERM26072021161846
+Pricing Option:            SOFR Simple Average(US BORROWE01003)
+Rate Basis:                Actual/360
+ARR Calculation Method: Simple Average
+Look Back days: 5
+Lock Out days: 0
+Base Rate Floor: N/A
+Legacy Base Rate Floor: N/A
+CCR Rounding: N/A
+Payment Lag: 0
+Observation period shift applies: No
+
+        Start           End Days            Balance       Rate             Amount
+_____________ _____________ ____ __________________ __________ __________________
+
+  12-Jan-2015   18-Jan-2015    7       5,000,000.00  5.084143%           4,942.92
+
+
+       Date   Days Rate Applied Calculated Rate   All-In Rate    Spread Spread Adjustment Cumulative Interest
+___________ ______ ____________ _______________ _____________ _________ _________________ ___________________
+
+12-Jan-2015      1    2.576000%   2.5841428571% 5.0841428571% 2.500000%         0.000000%              706.13
+13-Jan-2015      2    2.578000%   2.5841428571% 5.0841428571% 2.500000%         0.000000%            1,412.26
+14-Jan-2015      3    2.582000%   2.5841428571% 5.0841428571% 2.500000%         0.000000%            2,118.39
+15-Jan-2015      4    2.589000%   2.5841428571% 5.0841428571% 2.500000%         0.000000%            2,824.52
+16-Jan-2015      7    2.588000%   2.5841428571% 5.0841428571% 2.500000%         0.000000%            4,942.92
+
+
+
+
+Interest Due                                                         4,942.92 
+Total Due:                                                           4,942.92 
+
+
+
+
+
+
+
+________________________________________________________________________________
+
+
+Please remit your payment on the due date
+
+For billing inquiries contact:  Steven Bailey
+
+

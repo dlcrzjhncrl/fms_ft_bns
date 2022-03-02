@@ -1,0 +1,18 @@
+                  Description:  <PricingOption_2> Payment
+
+
+
+Effective <EffectiveDate>, <BorrowerShortName> will make a(n) <PricingOption>
+<PricingOption_2> Payment totaling <Currency> <Amount>  
+
+
+
+
+
+Deal ISIN: <Deal_ISIN>
+Deal CUSIP: <Deal_CUSIP>
+Facility ISIN: <Facility_ISIN>
+Facility CUSIP: <Facility_CUSIP>
+
+
+|<comment>|

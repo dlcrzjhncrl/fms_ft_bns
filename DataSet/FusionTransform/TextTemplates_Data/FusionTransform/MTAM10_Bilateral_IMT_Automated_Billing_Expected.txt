@@ -1,0 +1,55 @@
+Borrower_ABC_35105                      Interest Due               285.82  
+11 Madison Avenue                       
+New York  NY 10010                      Total Due:                 285.82   USD
+United States                           
+                                        	   Due Date: 27-Jan-2015
+															
+Contact:  JEFF BEZOS
+Phone:  +13103636000
+Fax #: 212-465-3967
+
+Re:  BDSBLC15107
+
+Prepared: 23-Jan-2015
+
+Please be advised that the following payments will be due on 27-Jan-2015
+
+
+
+
+
+________________________________________________________________________________
+
+Loan Details for -  BORROWER_A00067
+Facility Name:             REVOLVERFACILITY25100
+Pricing Option:            Libor Option(BORROWER_A00067)
+                           Repricing Frequency:7 Day(s)
+                           Repricing Date:16-Dec-2014
+Rate Basis:                Actual/360
+
+        Start           End Days            Balance       Rate             Amount
+_____________ _____________ ____ __________________ __________ __________________
+
+  20-Jan-2015   26-Jan-2015    7         100,000.00  2.100000%             40.83
+
+
+
+
+Interest Due                                                              40.83 
+Balance Forward:                                                         244.99 
+Total Due:                                                               285.82 
+
+
+
+
+
+
+
+________________________________________________________________________________
+
+
+Please remit your funds   to arrive on the effective date. 
+ Correspondent Bank: CITIBANK N.A. (Swift ID: CITIUS33ARR)  
+Account: IQFS New York
+
+For billing inquiries contact:  Steven Bailey

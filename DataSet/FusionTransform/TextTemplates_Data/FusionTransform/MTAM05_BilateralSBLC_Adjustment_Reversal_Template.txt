@@ -1,0 +1,32 @@
+           Description: <PRICING_OPTION> Interest Payment Reversal  
+ The all-in rate is: <ALLINRATE> 
+
+
+Effective <CURRENT_BUSINESS_DATE> we will reverse the interest payment made under the <PRICING_OPTION> totaling <CURRENCY> <INTEREST_PAYMENT_AMOUNT>.
+
+Deal ISIN: <Deal_ISIN>
+Deal CUSIP: <Deal_CUSIP>
+Facility ISIN: <Facility_ISIN>
+Facility CUSIP: <Facility_CUSIP>
+This loan was effective <LOAN_EFFECTIVEDATE> and is scheduled
+to reprice on <LOAN_REPRICINGDATE>.
+
+
+
+
+
+
+
+
+We will remit your funds <CURRENCY> <INTEREST_PAYMENT_AMOUNT> on the effective date.
+
+
+For:<BORROWER>
+
+Reference: <DEAL_NAME>, 
+
+
+
+
+
+|<comment>|

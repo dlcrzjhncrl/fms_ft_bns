@@ -1,0 +1,59 @@
+                            [BANKNAME]
+                                 [LOCATION]
+
+
+Date: [GENDATE]
+  TO: [CUST]
+ATTN: [ATTEN]
+ Fax: 
+  Re: Free Form..Demand Bill for [CUST]
+
+
+Comments: Please remit ASAP..[CUST]                          Principal Due              [AMOUNT1]  
+[ADDRS1]                              Interest Due                 [AMOUNT2]  
+[ADDRS2]                                 
+[ADDRS3]   [ADDRS4]                           Total Due:                 [AMOUNT3]   [CCY]
+[ADDRS5]                                  
+                                            Due Date: [DIFFDUEDATE]
+Contact:  [ATTEN]
+Phone:  [PHONENO]
+
+Re:  [Deal_Name]
+
+Prepared: [DUEDATE]
+
+Please be advised that the following payments will be due on [DIFFDUEDATE]
+
+
+
+
+
+________________________________________________________________________________
+
+
+Facility Name:             [ACTION_FACILITY]
+Pricing Option:            [FEETYPE]
+Rate Basis:                [RATEBASIS]
+
+        Start         End Days            Balance       Rate             Amount
+_____________ ___________ ____ __________________ __________ __________________
+
+  [STARTDATE] [ENDDATE]   [DIFF]           [AMOUNT4]  [RATE]              [AMOUNT5]
+   [STARTDATE2] [ENDDATE2]   [DIFF2]           [AMOUNT4]  [RATE]              [AMOUNT6]
+
+
+
+
+
+Interest Due                                                            [AMOUNT7] 
+Balance Forward:                                                       [AMOUNT8] 
+Total Due:                                                             [AMOUNT2] 
+
+
+
+
+
+
+
+
+________________________________________________________________________________

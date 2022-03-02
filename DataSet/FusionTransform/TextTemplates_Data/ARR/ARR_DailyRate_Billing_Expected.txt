@@ -1,0 +1,70 @@
+US Borrower                             Interest Due               4,946.21  
+25 Camp Road                            
+New York  NY 10081                      Total Due:                 4,946.21   USD
+United States                           
+                                        	   Due Date: 19-Jan-2015
+															
+Contact:  Jeff Bezos
+
+Re:  ARR_SC128072021222509URL
+
+Prepared: 13-Jan-2015
+
+Please be advised that the following payments will be due on 19-Jan-2015
+
+
+
+
+
+________________________________________________________________________________
+
+NOTE: PROVISIONAL RATE IS USED
+Loan Details for -  US BORROWE01006
+Facility Name:             ARR_TERM28072021224412
+Pricing Option:            SOFR Daily Rate Compounding(US BORROWE01006)
+Rate Basis:                Actual/360
+ARR Calculation Method: Daily Rate With Compounding
+Look Back days: 3
+Lock Out days: 0
+Base Rate Floor: 1.242100%
+Legacy Base Rate Floor: N/A
+CCR Rounding: 4
+Payment Lag: 0
+Observation period shift applies: No
+
+        Start           End Days            Balance       Rate             Amount
+_____________ _____________ ____ __________________ __________ __________________
+
+  12-Jan-2015   12-Jan-2015    1       5,000,000.00  5.082000%             705.83
+  13-Jan-2015   13-Jan-2015    1       5,000,000.00  5.089200%             706.83
+  14-Jan-2015   18-Jan-2015    5       5,000,000.00  5.088300%           3,533.55
+
+
+       Date   Days Rate Applied Compounding Factor Compounded Rate
+___________ ______ ____________ __________________ _______________
+
+12-Jan-2015      1    2.582000%           1.000000   2.5820000000%
+13-Jan-2015      1    2.589000%           1.000077   2.5892000000%
+14-Jan-2015      1    2.588000%           1.000116   2.5883000000%
+15-Jan-2015      1    2.590000%           1.000193   2.5905000000%
+
+
+
+
+Interest Due                                                         4,946.21 
+Total Due:                                                           4,946.21 
+
+
+
+
+
+
+
+________________________________________________________________________________
+
+
+Please remit your payment on the due date
+
+For billing inquiries contact:  Steven Bailey
+
+

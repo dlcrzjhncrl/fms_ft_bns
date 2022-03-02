@@ -1,0 +1,64 @@
+Description: USD Loan Repricing for the Deal ARR_LIBORSC319082021191057WKJ.
+
+Effective: 21-Jan-2015 
+
+Borrower US Borrower in Facility ARR_TERM19082021191938 has the following loans repricing: 
+
+                                                           Current      
+                                                           Reprice      
+Description                                 Global Amount  Date         
+----------------------------------------------------------------------------------------
+ SOFR Compounded in Arrears NOT                 545,000.00    21-Jan-2015  
+ Overridable Loan                                                       
+ SOFR Compounded in Arrears NOT                 545,000.00    21-Jan-2015  
+ Overridable Loan                                                       
+
+
+
+
+Borrower US Borrower in Facility ARR_TERM19082021191938 will have the following new loans: 
+
+                                                         Next         
+Pricing                                                  Reprice      
+Option                                    Global Amount  Date         
+----------------------------------------------------------------------------------------
+ SOFR Compounded in Arrears NOT              1,090,000.00   28-Jan-2015  
+ Overridable                                                          
+          Continuation Date: 23-Jan-2015
+
+
+ 
+
+
+
+Borrower US Borrower in Facility ARR_TERM19082021191938 floating rate detail is as follows: 
+
+Pricing Option                            Global Amount    All In Rate
+----------------------------------------------------------------------------------------
+ SOFR Compounded in Arrears NOT              1,090,000.00       7.588621%
+ Overridable                                                          
+
+	 SOFR Compounded in Arrears NOT Overridable: 2.588621%
+	 Spread: 2.000000%
+	 Rate Type: Compounded In Arrears
+	 Look Back days : 5
+	 Lock Out days : 0
+	 SOFR Compounded in Arrears NOT Overridable on Effective Start Date : 2.588621%
+	 Spread Adjustment : 3.000000%
+Observation period shift applies : No
+	Base Rate Floor : N/A
+Legacy Base Rate Floor : N/A
+CCR Rounding :N/A
+Payment Lag :0
+
+
+
+
+
+
+
+
+
+
+
+|<comment>|

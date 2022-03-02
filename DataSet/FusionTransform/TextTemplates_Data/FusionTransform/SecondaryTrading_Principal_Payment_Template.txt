@@ -1,0 +1,27 @@
+           Description: <PricingOption> <PricingOption_2> Payment
+
+
+Effective <EffectiveDate> <NoticeBorrower_LegalName> has elected to prepay
+under the <PricingOption> a total of <Currency> <Amount>.
+Please see details below.
+
+Deal ISIN: <Deal_ISIN>
+Deal CUSIP: <Deal_CUSIP>
+Facility ISIN: <Facility_ISIN>
+Facility CUSIP: <Facility_CUSIP>
+This loan was effective <Loan_EffectiveDate> and is scheduled
+to reprice on <RepricingDate>.
+
+
+Your share of the <Currency> <Amount> <PricingOption> payment is:
+USD <Amount_2>.
+
+
+We will remit your funds <Currency> <Amount_2> on the effective date.
+
+For: <Lender>
+
+Reference: <Deal>, 
+
+
+|<comment>|

@@ -1,0 +1,55 @@
+BORROWER AGENTED SECURITY15104          Fees Due                     631.94  
+Baker Street                            
+Butterfield  CA 00010                   Total Due:                   631.94   USD
+United States                           
+                                        	   Due Date: 28-Feb-2022
+															
+Contact:  Emman Anonas
+Phone:  1234
+Fax #: 234-435-9842
+
+Re:  AWS SCENARIO23127
+
+Prepared: 10-Dec-2021
+
+Please be advised that the following payments will be due on 28-Feb-2022
+
+
+
+
+
+________________________________________________________________________________
+
+
+Facility Name:             FACAMCH1109122021105110BSC
+Fee Type:                  Available/Unutilized
+Rate Basis:                Actual/360
+
+        Start           End Days            Balance       Rate             Amount
+_____________ _____________ ____ __________________ __________ __________________
+
+  29-Nov-2021   31-Dec-2021   33         500,000.00  0.500000%             229.17
+   1-Jan-2022   27-Feb-2022   58         500,000.00  0.500000%             402.77
+
+
+
+
+
+Total Fees:                                                            631.94 
+Total Due:                                                             631.94 
+
+ Current Per Diem:                                                       6.94
+
+
+
+
+
+
+________________________________________________________________________________
+
+
+Please remit your funds   to arrive on the effective date. 
+ Correspondent Bank: CITIBANK N.A. (Swift ID: CITIUS33ARR)  
+Account: IQFS New York
+
+For billing inquiries contact:  Steven Bailey
